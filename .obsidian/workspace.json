@@ -11,8 +11,12 @@
             "id": "45c382b664fb0cda",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS932L Formal System Design/Operations and relations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS932L Formal System Design/Operations and relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS932L Formal System Design/Operations and relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS932L Formal System Design/Operations and relations.md"
+              }
             }
           }
         ],
@@ -139,18 +147,18 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d2a671e06feb8be0",
+  "active": "45c382b664fb0cda",
   "lastOpenFiles": [
-    "CS933 Image/Oct. 09.md",
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
-    "未命名.canvas",
+    "CS907 Dissertation Project/Intro.md",
     "Pasted image 20231010114405.png",
-    "CS933 Image/Image Analysis.md",
     "CS915 Advanced Computer Security/未命名.md",
+    "CS933 Image/Oct. 09.md",
+    "未命名.canvas",
+    "CS933 Image/Image Analysis.md",
     "CS932L Formal System Design/Operations and relations.md",
     "Recording 20231010101155.webm",
     "CS932L Formal System Design",
-    "CS907 Dissertation Project/Intro.md",
     "CS907 Dissertation Project",
     "CS915 Advanced Computer Security",
     "Pasted image 20231009121312.png",
