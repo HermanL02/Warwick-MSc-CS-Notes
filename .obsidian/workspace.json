@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "b14519fbf29d533d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d669abab959472f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c382b664fb0cda",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d803067796dd1879",
+    "type": "split",
+    "children": [
+      {
+        "id": "81c6b47b895ac563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a671e06feb8be0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "765e8eff86b8be51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28679de5a92f0c9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db56c1f762d6f165",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a676d48f5434056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eba427078fd3709",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b22e90cb32a5da8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41dc7be7c2eb972a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80b23ce7c20bf40b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "d2a671e06feb8be0",
+  "lastOpenFiles": [
+    "CS933 Image/Oct. 09.md",
+    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
+    "未命名.canvas",
+    "Pasted image 20231010114405.png",
+    "CS933 Image/Image Analysis.md",
+    "CS915 Advanced Computer Security/未命名.md",
+    "CS932L Formal System Design/Operations and relations.md",
+    "Recording 20231010101155.webm",
+    "CS932L Formal System Design",
+    "CS907 Dissertation Project/Intro.md",
+    "CS907 Dissertation Project",
+    "CS915 Advanced Computer Security",
+    "Pasted image 20231009121312.png",
+    "Pasted image 20231009121236.png",
+    "Pasted image 20231009121244.png",
+    "CS933 Image"
+  ]
+}
