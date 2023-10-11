@@ -23,3 +23,9 @@ R B T = {xx, yy | xx ∈ X ∧ yy ∈ Y ∧ yy ∈ T ∧ xx 7→ yy ∈ R}
 ### Example
 
 eats B {carrots} = {Ben 7→ carrots,Helen 7→ carrots, Sarah 7→ carrots}
+
+
+## 定义域减法和值域减法 Domain and Range subtraction
+
+和限制相似，只不过是将这部分从原始set中去除掉
+
