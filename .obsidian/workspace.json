@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Image Analysis.md",
+                "file": "CS932L Formal System Design/Operations and relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Image Analysis.md",
+                "file": "CS932L Formal System Design/Operations and relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Image Analysis.md",
+                "file": "CS932L Formal System Design/Operations and relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Image Analysis.md"
+                "file": "CS932L Formal System Design/Operations and relations.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "45c382b664fb0cda",
   "lastOpenFiles": [
+    "CS933 Image/Image Analysis.md",
     "Pasted image 20231011103615.png",
     "Pasted image 20231011102933.png",
     "Pasted image 20231010114405.png",
@@ -160,7 +161,6 @@
     "CS915 Advanced Computer Security/未命名.md",
     "CS933 Image/Oct. 09.md",
     "未命名.canvas",
-    "CS933 Image/Image Analysis.md",
     "Recording 20231010101155.webm",
     "CS932L Formal System Design",
     "CS907 Dissertation Project",
