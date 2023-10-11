@@ -29,3 +29,4 @@ eats B {carrots} = {Ben 7→ carrots,Helen 7→ carrots, Sarah 7→ carrots}
 
 和限制相似，只不过是将这部分从原始set中去除掉
 
+## Example of use Relations in Specification 
