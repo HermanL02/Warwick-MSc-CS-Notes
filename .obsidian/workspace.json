@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS932L Formal System Design/Operations and relations.md",
+                "file": "CS932L Formal System Design/Lec4. More about relations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5785e5caf06c82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS932L Formal System Design/Lec4. More about relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS932L Formal System Design/Operations and relations.md",
+                "file": "CS932L Formal System Design/Lec4. More about relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS932L Formal System Design/Operations and relations.md",
+                "file": "CS932L Formal System Design/Lec4. More about relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS932L Formal System Design/Operations and relations.md"
+                "file": "CS932L Formal System Design/Lec4. More about relations.md"
               }
             }
           }
@@ -150,13 +162,14 @@
   },
   "active": "45c382b664fb0cda",
   "lastOpenFiles": [
+    "CS932L Formal System Design/Lec3. Operations and relations.md",
+    "CS932L Formal System Design/Lec4. More about relations.md",
+    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "CS933 Image/Image Analysis.md",
     "Pasted image 20231011103615.png",
     "Pasted image 20231011102933.png",
     "Pasted image 20231010114405.png",
-    "CS932L Formal System Design/Operations and relations.md",
     "CS932L Formal System Design/Review of Discrete Math.md",
-    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "CS907 Dissertation Project/Intro.md",
     "CS915 Advanced Computer Security/未命名.md",
     "CS933 Image/Oct. 09.md",
