@@ -62,4 +62,7 @@ They got horizontal frequency rate and vertical frequency rate. The lowest frequ
 
 Through Low-pass filtering we can filter the high frequency part to avoid aliasing. 
 
+### Quantisation 
+
+	![[Pasted image 20231011103615.png]]
 	
