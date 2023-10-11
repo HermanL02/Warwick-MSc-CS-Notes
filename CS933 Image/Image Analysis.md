@@ -58,3 +58,8 @@ They got horizontal frequency rate and vertical frequency rate. The lowest frequ
 ![[Pasted image 20231011102933.png]]
 欠采样（Subsampling) resulting Aliasing
 
+### Low-pass filtering 
+
+Through Low-pass filtering we can filter the high frequency part to avoid aliasing. 
+
+	
