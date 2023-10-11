@@ -30,3 +30,10 @@ eats B {carrots} = {Ben 7→ carrots,Helen 7→ carrots, Sarah 7→ carrots}
 和限制相似，只不过是将这部分从原始set中去除掉
 
 ## Example of use Relations in Specification 
+
+A specification is required to represent a system for allowing people to view sensitive documents. Each person has a unique identifier, and only people registered with the system are allowed to see documents. For each registered person, a record is kept of the documents they are allowed to see. Documents can only be viewed by people with permission to see the document. Typical operations on the system will be to register or deregister a user, to query the documents currently viewed by a particular person, to start viewing a document, to stop viewing a document, to alter permissions, etc etc.
+
+### Thinking: What variables and sets do we need to have? 
+PID
+
+
