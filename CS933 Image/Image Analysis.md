@@ -50,3 +50,11 @@
 在图像分析和处理中，正弦波纹也经常被用作工具，尤其是在频率分析和滤波器设计中。例如，如果你想了解一个图像处理算法如何影响不同的空间频率，你可能会使用正弦波纹作为输入，然后分析输出的结果。
 
 
+## Spatial Frequency has direction 
+
+They got horizontal frequency rate and vertical frequency rate. The lowest frequency is 0. 
+
+## Subsampling and Aliasing 
+![[Pasted image 20231011102933.png]]
+欠采样（Subsampling) resulting Aliasing
+
