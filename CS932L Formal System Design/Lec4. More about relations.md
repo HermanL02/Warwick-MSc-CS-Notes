@@ -55,4 +55,7 @@ dd <-- beingviewed = dd := ran(viewing)
 - 如果你有一个关系 R 和一个定义域元素的集合 A，那么 A 的关系映像是所有与 A 中的任何元素相关的值域元素的集合。数学上表示R[A]。
 - 
 
-Relational Inverse
+## Relational Inverse 
+
+The types of domain and range swap
+
