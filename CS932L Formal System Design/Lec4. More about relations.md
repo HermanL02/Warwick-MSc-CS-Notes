@@ -22,7 +22,7 @@ R B T = {xx, yy | xx ∈ X ∧ yy ∈ Y ∧ yy ∈ T ∧ xx 7→ yy ∈ R}
 
 ### Example
 
-eats B {carrots} = {Ben 7→ carrots,Helen 7→ carrots, Sarah 7→ carrots}
+eats B {carrots} = {Ben 7→ carrots, Helen 7→ carrots, Sarah 7→ carrots}
 
 
 ## 定义域减法和值域减法 Domain and Range subtraction
@@ -54,3 +54,5 @@ dd <-- beingviewed = dd := ran(viewing)
 - 如果你有一个关系 R 和一个定义域元素 a，那么 a 的关系映像是所有与 a 相关的值域元素的集合。在数学符号中，这通常表示为 R[a]。
 - 如果你有一个关系 R 和一个定义域元素的集合 A，那么 A 的关系映像是所有与 A 中的任何元素相关的值域元素的集合。数学上表示R[A]。
 - 
+
+Relational Inverse
