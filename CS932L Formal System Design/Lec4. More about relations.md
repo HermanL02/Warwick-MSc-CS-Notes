@@ -33,7 +33,23 @@ eats B {carrots} = {Ben 7→ carrots,Helen 7→ carrots, Sarah 7→ carrots}
 
 A specification is required to represent a system for allowing people to view sensitive documents. Each person has a unique identifier, and only people registered with the system are allowed to see documents. For each registered person, a record is kept of the documents they are allowed to see. Documents can only be viewed by people with permission to see the document. Typical operations on the system will be to register or deregister a user, to query the documents currently viewed by a particular person, to start viewing a document, to stop viewing a document, to alter permissions, etc etc.
 
-### Thinking: What variables and sets do we need to have? 
-PID
+### Thinking: What are the variables and sets? 
+
+PID: Person id
+DOC: Document set
+reg: registered user
+allowed: recording what people should be allowed to see aka. permission
+viewing: who is currently viewing what
+
+### Thinking: What are the operations 
+dd <-- beingviewed = dd := ran(viewing)
 
 
+## Relational image 关系映像
+**关系与函数的区别**：
+- 函数是一种特殊的关系，其中每个定义域的元素都与值域中的一个且只有一个元素相关联。
+- 但在一般的关系中，一个定义域的元素可能与值域中的多个元素相关联。
+**关系映像**：
+- 是一个用来描述某个或某些定义域元素与哪些值域元素相关联的概念
+- 如果你有一个关系 R 和一个定义域元素 a，那么 a 的关系映像是所有与 a 相关的值域元素的集合。在数学符号中，这通常表示为 R[a]。
+- 如果你有一个关系 R 和一个定义域元素的集合 A，那么 A 的关系映像是所有与 �A 中的任何元素相关的值域元素的集合。数学上表示R[A]。
