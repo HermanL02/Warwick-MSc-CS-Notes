@@ -27,3 +27,7 @@
 - Denoising
 - Interpretation: Detection and Understanding
 
+## Domain and range
+
+Domain will be sampled. The range will be quantized. 
+

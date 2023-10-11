@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS932L Formal System Design/Review of Discrete Math.md",
+                "file": "CS933 Image/Image Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS932L Formal System Design/Review of Discrete Math.md",
+                "file": "CS933 Image/Image Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS932L Formal System Design/Review of Discrete Math.md",
+                "file": "CS933 Image/Image Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS932L Formal System Design/Review of Discrete Math.md"
+                "file": "CS933 Image/Image Analysis.md"
               }
             }
           }
@@ -150,11 +150,11 @@
   },
   "active": "45c382b664fb0cda",
   "lastOpenFiles": [
-    "CS932L Formal System Design/Operations and relations.md",
-    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
-    "CS932L Formal System Design/Review of Discrete Math.md",
-    "CS907 Dissertation Project/Intro.md",
     "Pasted image 20231010114405.png",
+    "CS932L Formal System Design/Operations and relations.md",
+    "CS932L Formal System Design/Review of Discrete Math.md",
+    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
+    "CS907 Dissertation Project/Intro.md",
     "CS915 Advanced Computer Security/未命名.md",
     "CS933 Image/Oct. 09.md",
     "未命名.canvas",
