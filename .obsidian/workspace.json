@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS932L Formal System Design/Lec4. More about relations.md",
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/未命名.md",
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/未命名.md",
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/未命名.md",
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/未命名.md"
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md"
               }
             }
           }
@@ -185,12 +185,13 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "bd5a072f75bedd12",
+  "active": "45c382b664fb0cda",
   "lastOpenFiles": [
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
-    "CS915 Advanced Computer Security/未命名.md",
-    "CS932L Formal System Design/Lec4. More about relations.md",
     "CS932L Formal System Design/Lec3. Operations and relations.md",
+    "CS932L Formal System Design/Lec4. More about relations.md",
+    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+    "().md",
     "CS933 Image/Image Analysis.md",
     "Pasted image 20231011103615.png",
     "Pasted image 20231011102933.png",
