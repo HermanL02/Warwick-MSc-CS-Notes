@@ -57,6 +57,6 @@ dd <-- beingviewed = dd := ran(viewing)
 
 ## Relational Inverse 
 
-The types of domain and range swap
+The types of domain and range swap. 
 
 
