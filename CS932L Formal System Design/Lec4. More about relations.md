@@ -59,4 +59,26 @@ dd <-- beingviewed = dd := ran(viewing)
 
 The types of domain and range swap. 
 
+PRE vv : VEG THEN cc := $eats^{−1} [{vv}]$END
+
+
+## Relational composition 关系组合
+
+Supposing we have 2 relations, supposing R is 
+```
+1 -> 2
+3 -> 4
+```
+and S is 
+```
+2 -> 5
+4 -> 6
+```
+Then R * S is 
+```
+1 -> 5
+3 -> 6
+```
+来实现关系的组合
+
 
