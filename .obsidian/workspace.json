@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/3. Crypto toolbox.md",
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,12 +186,13 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "45c382b664fb0cda",
+  "active": "69c0a89716762038",
   "lastOpenFiles": [
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
+    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+    "Pasted image 20231012132939.png",
     "CS932L Formal System Design/Lec3. Operations and relations.md",
     "CS932L Formal System Design/Lec4. More about relations.md",
-    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "().md",
     "CS933 Image/Image Analysis.md",
     "Pasted image 20231011103615.png",
