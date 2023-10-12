@@ -63,6 +63,7 @@ PRE vv : VEG THEN cc := $eats^{−1} [{vv}]$ END
 
 
 ## Relational composition 关系组合
+
 R1 composition R2 = {xx, zz | xx ∈ X ∧ zz ∈ Z ∧ ∃ yy • (yy ∈ Y ∧ xx 7→ yy ∈ R1 ∧ yy 7→ zz ∈ R2)}
 
 Supposing we have 2 relations, supposing R is 
@@ -82,4 +83,7 @@ Then R * S is
 ```
 来实现关系的组合
 
+## Relational Overriding 关系覆写 
+
+覆写可以覆盖之前的操作，如果原关系不存在则自动创建新的操作
 
