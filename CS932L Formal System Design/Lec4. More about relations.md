@@ -59,10 +59,11 @@ dd <-- beingviewed = dd := ran(viewing)
 
 The types of domain and range swap. 
 
-PRE vv : VEG THEN cc := $eats^{−1} [{vv}]$END
+PRE vv : VEG THEN cc := $eats^{−1} [{vv}]$ END
 
 
 ## Relational composition 关系组合
+R1 composition R2 = {xx, zz | xx ∈ X ∧ zz ∈ Z ∧ ∃ yy • (yy ∈ Y ∧ xx 7→ yy ∈ R1 ∧ yy 7→ zz ∈ R2)}
 
 Supposing we have 2 relations, supposing R is 
 ```
