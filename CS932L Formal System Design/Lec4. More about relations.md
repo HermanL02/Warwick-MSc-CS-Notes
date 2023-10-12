@@ -87,3 +87,18 @@ Then R * S is
 
 覆写可以覆盖之前的操作，如果原关系不存在则自动创建新的操作
 
+Operations for R : X ↔ X
+
+id(X) = {xx, xx | xx ∈ X}
+
+$R^{n}$ - R composed with itself n times
+
+Eg: $R^{3}$ = R ==09== R ==09== R
+
+$R^{+}$ - the transitive closure of R
+
+Ie: $R^{+}$ = R ∪ $R^{2}$∪ $R^{3}$ ∪ $R^{4}$ ∪ . . .
+
+$R^{*}$ - the reflexive transitive closure of R
+
+Ie: $R^{+}$ ∪ id(X)
