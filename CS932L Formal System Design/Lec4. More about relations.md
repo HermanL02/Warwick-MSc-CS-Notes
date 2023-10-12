@@ -59,3 +59,4 @@ dd <-- beingviewed = dd := ran(viewing)
 
 The types of domain and range swap
 
+
