@@ -70,9 +70,9 @@ Effects of Uniform Quantisation
 
 Non-invertible
 
-## RGB -> YUV (YCbCr) 从红绿蓝变成YUV明亮度转换
+## RGB -> YUV (YCbCr) 
 
-Invertible
 
- 
+
+
 
