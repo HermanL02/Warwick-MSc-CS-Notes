@@ -69,3 +69,5 @@ Through Low-pass filtering we can filter the high frequency part to avoid aliasi
 Effects of Uniform Quantisation
 
 Non-invertible
+
+/

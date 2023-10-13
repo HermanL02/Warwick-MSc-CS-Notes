@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS932L Formal System Design/Lec4. More about relations.md",
+                "file": "CS933 Image/Image Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS932L Formal System Design/Lec4. More about relations.md",
+                "file": "CS933 Image/Image Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS932L Formal System Design/Lec4. More about relations.md",
+                "file": "CS933 Image/Image Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS932L Formal System Design/Lec4. More about relations.md"
+                "file": "CS933 Image/Image Analysis.md"
               }
             }
           }
@@ -187,15 +187,15 @@
   },
   "active": "d5785e5caf06c82c",
   "lastOpenFiles": [
+    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+    "CS932L Formal System Design/Lec4. More about relations.md",
     "CS932L Formal System Design/Lec3. Operations and relations.md",
     "Pasted image 20231012134524.png",
     "Pasted image 20231012132939.png",
     "Pasted image 20231011103615.png",
     "Pasted image 20231011102933.png",
     "Pasted image 20231010114405.png",
-    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
-    "CS932L Formal System Design/Lec4. More about relations.md",
     "().md",
     "CS933 Image/Image Analysis.md",
     "CS932L Formal System Design/Review of Discrete Math.md",
