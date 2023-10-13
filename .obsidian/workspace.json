@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,11 +196,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "bdafdd8562eb9454",
+  "active": "45c382b664fb0cda",
   "lastOpenFiles": [
-    "CS933 Image/Image Analysis 1.md",
     "CS933 Image/Image Analysis 2.md",
     "CS933 Image/目录 Table of Contents.md",
+    "CS933 Image/Image Analysis 1.md",
     "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "CS932L Formal System Design/Lec4. More about relations.md",
     "CS932L Formal System Design/Lec3. Operations and relations.md",

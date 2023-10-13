@@ -12,3 +12,6 @@
 
 # Nearest-neighbour Interpolation
 
+The simplest way to up sample by a given factor, say n, is to repeat each value n-times
+
+
