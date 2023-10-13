@@ -29,5 +29,7 @@ Bilinear Interpolation using Matrix:
 
 这个公式基本上首先在X轴方向进行两次线性内插，然后在Y轴方向进行一次线性内插。
 
+# Interpolation as weighted combinations
 
-
+Interpolation can indeed be viewed as a process of taking weighted combinations of neighbouring values.
+# Sinc Interpolation 
