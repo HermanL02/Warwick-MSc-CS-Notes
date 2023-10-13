@@ -21,3 +21,5 @@ The simplest way to up sample by a given factor, say n, is to repeat each value 
 
 ## Bilinear Interpolation
 
+![[Pasted image 20231013093609.png]]
+Bilinear 
