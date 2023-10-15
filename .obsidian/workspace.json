@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "ff84bd579ad1da07",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "d5785e5caf06c82c",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,7 +231,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "2ee2088e15a1ce8d",
+  "active": "ff84bd579ad1da07",
   "lastOpenFiles": [
     "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
     "Useful Commands.md",
