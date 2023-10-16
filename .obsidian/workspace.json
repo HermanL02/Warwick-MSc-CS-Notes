@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md"
+                "file": "CS933 Image/Image Analysis 2.md"
               }
             }
           }
@@ -151,8 +150,9 @@
   },
   "active": "ff84bd579ad1da07",
   "lastOpenFiles": [
-    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+    "Pasted image 20231016124339.png",
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
+    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "CS932L Formal System Design/Review of Discrete Math.md",
     "Pasted image 20231011102933.png",
     "CS932L Formal System Design/Lec4. More about relations.md",

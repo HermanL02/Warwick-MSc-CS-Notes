@@ -33,3 +33,16 @@ Bilinear Interpolation using Matrix:
 
 Interpolation can indeed be viewed as a process of taking weighted combinations of neighbouring values.
 # Sinc Interpolation 
+Higher order interpolation will take weighted combinations of neighbours of neighbours
+
+# Measurements
+Shortest or Euclidean Distance
+D<sub>E</sub>(p, q) = ||p − q||
+City block distance
+D<sub>4</sub>(p, q) = |p<sub>x</sub> − q<sub>x</sub>| + |p<sub>y</sub> − q<sub>y</sub>|
+Chess-board distance
+D<sub>8</sub>(p, q) = max(|px − qx|, |py − qy|)
+
+## Neighbourhoods 
+![[Pasted image 20231016124339.png]]
+##  Thresholding and Binarizations
