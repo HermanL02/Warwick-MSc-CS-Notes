@@ -45,4 +45,13 @@ D<sub>8</sub>(p, q) = max(|px − qx|, |py − qy|)
 
 ## Neighbourhoods 
 ![[Pasted image 20231016124339.png]]
-##  Thresholding and Binarizations
+## Thresholding and Binarizations
+Binarization: Only keep the most important features
+Thresholding: **使用一个或多个阈值来将像素标记为不同的类别**
+## Connected Component Labelling
+• n = 0
+• For each foreground pixel [i, j] not visited
+• Set label n+1
+• Set labels of neighbours also in F to n+1
+• Visit neighbours not visited
+• Repeat until while unvisited neighbours
