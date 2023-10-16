@@ -55,3 +55,6 @@ Thresholding: **使用一个或多个阈值来将像素标记为不同的类别*
 • Set labels of neighbours also in F to n+1
 • Visit neighbours not visited
 • Repeat until while unvisited neighbours
+
+![[Pasted image 20231016125351.png]]
+
