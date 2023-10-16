@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md"
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md"
               }
             }
           }
@@ -150,11 +149,14 @@
   },
   "active": "ff84bd579ad1da07",
   "lastOpenFiles": [
-    "CS915 Advanced Computer Security/3.2.md",
-    "CS932L Formal System Design/Lec4. More about relations.md",
     "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
-    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
+    "CS915 Advanced Computer Security/3.2 Block Cipher.md",
+    "CS932L Formal System Design/Lec4. More about relations.md",
+    "CS932L Formal System Design/未命名.canvas",
+    "CS932L Formal System Design/Lec3. Operations and relations.md",
+    "Pasted image 20231016112742.png",
     "Useful Commands.md",
+    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
     "CS933 Image/目录 Table of Contents.md",
     "CS907 Dissertation Project/Intro.md",
@@ -163,7 +165,6 @@
     "Pasted image 20231013094203.png",
     "Pasted image 20231013093609.png",
     "CS933 Image/Image Analysis 1.md",
-    "CS932L Formal System Design/Lec3. Operations and relations.md",
     "Pasted image 20231012134524.png",
     "Pasted image 20231012132939.png",
     "Pasted image 20231011103615.png",
@@ -179,7 +180,6 @@
     "CS915 Advanced Computer Security",
     "Pasted image 20231009121312.png",
     "Pasted image 20231009121236.png",
-    "Pasted image 20231009121244.png",
     "CS933 Image"
   ]
 }
