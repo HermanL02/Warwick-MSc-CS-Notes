@@ -47,9 +47,11 @@
             "id": "ff84bd579ad1da07",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Useful Commands.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
