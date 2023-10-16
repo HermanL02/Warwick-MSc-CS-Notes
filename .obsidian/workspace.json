@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Commands.md",
+                "file": "CS915 Advanced Computer Security/3.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Commands.md",
+                "file": "CS915 Advanced Computer Security/3.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Commands.md",
+                "file": "CS915 Advanced Computer Security/3.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Commands.md"
+                "file": "CS915 Advanced Computer Security/3.2.md"
               }
             }
           }
@@ -235,24 +235,25 @@
   },
   "active": "ff84bd579ad1da07",
   "lastOpenFiles": [
-    "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
+    "CS932L Formal System Design/Lec4. More about relations.md",
+    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+    "CS915 Advanced Computer Security/3.2.md",
+    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "Useful Commands.md",
+    "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
     "CS933 Image/目录 Table of Contents.md",
     "CS907 Dissertation Project/Intro.md",
     "CS908 Research Methods",
     "CS933 Image/Image Analysis 2.md",
     "Pasted image 20231013094203.png",
     "Pasted image 20231013093609.png",
-    "CS932L Formal System Design/Lec4. More about relations.md",
     "CS933 Image/Image Analysis 1.md",
-    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "CS932L Formal System Design/Lec3. Operations and relations.md",
     "Pasted image 20231012134524.png",
     "Pasted image 20231012132939.png",
     "Pasted image 20231011103615.png",
     "Pasted image 20231011102933.png",
     "Pasted image 20231010114405.png",
-    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "().md",
     "CS932L Formal System Design/Review of Discrete Math.md",
     "CS933 Image/Oct. 09.md",
