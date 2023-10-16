@@ -55,11 +55,11 @@ Thresholding: **使用一个或多个阈值来将像素标记为不同的类别*
 • Set labels of neighbours also in F to n+1
 • Visit neighbours not visited
 • Repeat until while unvisited neighbours
+## Centroids and Principal Axes 
 
 ![[Pasted image 20231016125351.png]]
 
 1. **我们可以找到一组像素的“质量中心”或质心，以及其主轴。**
-    
     - 质心：是指一组像素的平均坐标位置。通常被视为物体的“重心”。在二维图像中，质心的坐标可以由像素坐标的平均值获得。        
 2. **I 是惯性张量（矩阵）或协方差矩阵。**
     - 惯性张量或协方差矩阵描述了像素集合分布的形状和方向。通过这个矩阵，我们可以确定物体的方向，以及哪个方向的分散最大或最小。
