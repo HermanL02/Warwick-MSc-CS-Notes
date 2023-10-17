@@ -31,3 +31,47 @@ ANY xx WHERE C THEN B END
 - xx is the (new) name of the variable you want to use - local to the ANY statement. 
 - C is the condition you want xx to satisfy. It must give at least the type.
 - B is an AMN description of the operation.
+```
+ANY xx
+WHERE xx ∈ (MID − members) ∧ xx != reserved id
+THEN
+newmember := xx || members := members ∪ {xx}
+END
+```
+ANY is the **generalisation** of LET
+## LET statement
+LET is a specific case where the variable is deterministic. 
+
+```
+LET xx
+BE xx = least(MID − (members ∪ {reserved id}))
+IN newmember := xx || members := members ∪ {xx}
+END
+```
+如果我们做这个，需要Least函数: 
+```
+CONSTANT least
+PROPERTIES least : P1 (MID) → MID
+```
+
+**A LET can always be expressed as an ANY**
+
+`LET xx BE xx = E IN B END`
+
+is the same as
+
+`ANY xx WHERE xx = E THEN B END`
+
+## Choice Statement
+ANY - picks from a range of values but executes the same code regardless of the choice. 
+CHOICE - allows different possible actions.
+
+**CHOICE S1 OR S2 OR . . . OR Sn END**
+```
+CHOICE message := winner || prize := 20
+OR
+message := free go
+OR
+message := loser
+END
+```
