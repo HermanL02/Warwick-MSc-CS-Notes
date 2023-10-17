@@ -25,3 +25,9 @@ THEN BEGIN newmember :: MID - members ||
 
 END
 ```
+
+# ANY statement
+ANY xx WHERE C THEN B END
+- xx is the (new) name of the variable you want to use - local to the ANY statement. 
+- C is the condition you want xx to satisfy. It must give at least the type.
+- B is an AMN description of the operation.
