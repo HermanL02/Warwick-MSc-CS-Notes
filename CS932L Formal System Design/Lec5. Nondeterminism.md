@@ -11,3 +11,17 @@ E.g. **xx = 3 compared with xx ∈ {1, 3, 5, 7, 9}**
 E.g. 2 **Eg2: ran(sseq) = sset ∧ card(sseq) = card(sset)**
 - 另一个例子，意味着sseq的值域（ran）等于sset，且sseq的基数（即元素数量）与sset的基数相同。
 # Why useful 
+newmember ∈ MID − members
+```
+newmember <-- join(...) =
+
+PRE ...
+
+THEN BEGIN newmember :: MID - members ||
+
+	...
+	
+	END
+
+END
+```
