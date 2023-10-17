@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -163,6 +164,7 @@
   },
   "active": "594ff229af071caf",
   "lastOpenFiles": [
+    "Pasted image 20231017113656.png",
     "Pasted image 20231017113349.png",
     "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
@@ -188,7 +190,6 @@
     "Pasted image 20231012134524.png",
     "Pasted image 20231012132939.png",
     "Pasted image 20231011103615.png",
-    "Pasted image 20231010114405.png",
     "().md",
     "CS933 Image/Oct. 09.md",
     "未命名.canvas",
