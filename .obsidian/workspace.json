@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Image Analysis 2.md",
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Image Analysis 2.md",
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Image Analysis 2.md",
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Image Analysis 2.md"
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "ff84bd579ad1da07",
   "lastOpenFiles": [
+    "CS933 Image/Image Analysis 2.md",
     "Pasted image 20231016125351.png",
     "Pasted image 20231016124339.png",
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
@@ -166,7 +167,6 @@
     "CS933 Image/目录 Table of Contents.md",
     "CS907 Dissertation Project/Intro.md",
     "CS908 Research Methods",
-    "CS933 Image/Image Analysis 2.md",
     "Pasted image 20231013094203.png",
     "Pasted image 20231013093609.png",
     "CS933 Image/Image Analysis 1.md",
@@ -181,7 +181,6 @@
     "CS932L Formal System Design",
     "CS907 Dissertation Project",
     "CS915 Advanced Computer Security",
-    "Pasted image 20231009121312.png",
     "CS933 Image"
   ]
 }
