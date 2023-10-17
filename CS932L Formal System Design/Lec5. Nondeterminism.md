@@ -4,3 +4,10 @@
 3. Proofs easier, less detail
 4. **Nondeterminism**
 # Nondeterminism
+A given start state -> A number of possible end states
+Details filled in by refinement
+E.g. **xx = 3 compared with xx ∈ {1, 3, 5, 7, 9}**
+- 这是一个例子。第一个表达式“xx = 3”是明确的，而第二个表达式“xx ∈ {1, 3, 5, 7, 9}”则是不明确的，因为xx可以是集合中的任何一个数。
+E.g. 2 **Eg2: ran(sseq) = sset ∧ card(sseq) = card(sset)**
+- 另一个例子，意味着sseq的值域（ran）等于sset，且sseq的基数（即元素数量）与sset的基数相同。
+# Why useful 
