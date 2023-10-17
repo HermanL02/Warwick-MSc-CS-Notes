@@ -67,11 +67,51 @@ ANY - picks from a range of values but executes the same code regardless of the 
 CHOICE - allows different possible actions.
 
 **CHOICE S1 OR S2 OR . . . OR Sn END**
+Ex. Suppose PRIZE is the set of different possible prizes:
 ```
 CHOICE message := winner || prize := 20
 OR
 message := free go
 OR
 message := loser
+END
+```
+
+
+## Question
+How could we implement . . .
+```
+CHOICE
+flip := heads
+OR
+flip := tails
+END
+```
+The following are all allowable implementations
+flip:=heads
+flip:=tails
+pseudo-random, equal chance
+pseudo-random, biased
+predictable e.g. alternating
+
+CHOICE只是一种标准，他并不在乎实际用户选择什么，所以说真正的程序中可以固定只选其中一个，也可以随机选择
+
+# SELECT statement
+
+Like an IF statement but conditions can overlap
+```
+SELECT P1 THEN S1
+WHEN
+P2 THEN S2
+. . .
+WHEN Pn THEN Sn
+ELSE S
+END
+```
+Ex. 
+```
+SELECT age < 21 THEN section := 7
+WHEN status = student THEN section := 6
+WHEN status = unemployed THEN section := 8
 END
 ```
