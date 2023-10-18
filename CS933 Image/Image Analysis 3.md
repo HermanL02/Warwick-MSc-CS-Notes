@@ -13,3 +13,6 @@ The histogram does not change if we shuffle the image.
 
 ## What happens if we noise to the image? 
 ![[Pasted image 20231018103506.png]]
+N = 512 * 512
+µ = 90.8 (Slightly change)
+σ2 = 1850.6 (Increased)
