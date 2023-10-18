@@ -25,3 +25,4 @@ Histograms of simple images
 ![[Pasted image 20231018104217.png]]
 # Optimal Threshold using MAP decision rule 
 最大后验概率
+# PDF
