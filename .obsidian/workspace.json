@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md"
+                "file": "CS933 Image/Image Analysis 2.md"
               }
             }
           }
@@ -164,10 +163,12 @@
   },
   "active": "594ff229af071caf",
   "lastOpenFiles": [
-    "Pasted image 20231017113656.png",
-    "Pasted image 20231017113349.png",
+    "CS933 Image/Image Analysis 1.md",
+    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
+    "Pasted image 20231017113656.png",
+    "Pasted image 20231017113349.png",
     "CS932L Formal System Design/Lec5. Nondeterminism.md",
     "CS932L Formal System Design/Review of Discrete Math.md",
     "CS932L Formal System Design/Lec4. More about relations.md",
@@ -179,17 +180,14 @@
     "CS932L Formal System Design/Lec3. Operations and relations.md",
     "Pasted image 20231016112742.png",
     "Useful Commands.md",
-    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
     "CS933 Image/目录 Table of Contents.md",
     "CS907 Dissertation Project/Intro.md",
     "CS908 Research Methods",
     "Pasted image 20231013094203.png",
     "Pasted image 20231013093609.png",
-    "CS933 Image/Image Analysis 1.md",
     "Pasted image 20231012134524.png",
     "Pasted image 20231012132939.png",
-    "Pasted image 20231011103615.png",
     "().md",
     "CS933 Image/Oct. 09.md",
     "未命名.canvas",
