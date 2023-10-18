@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Image Analysis 3.md",
+                "file": "CS932L Formal System Design/Lec6. Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Image Analysis 3.md",
+                "file": "CS932L Formal System Design/Lec6. Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Image Analysis 3.md",
+                "file": "CS932L Formal System Design/Lec6. Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Image Analysis 3.md"
+                "file": "CS932L Formal System Design/Lec6. Functions.md"
               }
             }
           }
@@ -175,6 +175,8 @@
   },
   "active": "7f40aca2fc2ad4de",
   "lastOpenFiles": [
+    "CS933 Image/Image Analysis 3.md",
+    "CS932L Formal System Design/Lec6. Functions.md",
     "Pasted image 20231018104217.png",
     "Pasted image 20231018104212.png",
     "Pasted image 20231018104210 1.png",
@@ -183,7 +185,6 @@
     "Pasted image 20231018103506.png",
     "Pasted image 20231018102930.png",
     "CS933 Image/Image Analysis 2.md",
-    "CS933 Image/Image Analysis 3.md",
     "CS933 Image/Image Analysis 1.md",
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
@@ -194,7 +195,6 @@
     "CS932L Formal System Design/Review of Discrete Math.md",
     "CS932L Formal System Design/Lec4. More about relations.md",
     "Pasted image 20231016125351.png",
-    "Pasted image 20231016124339.png",
     "CS932L Formal System Design/未命名.canvas",
     "CS932L Formal System Design/Lec3. Operations and relations.md",
     "Useful Commands.md",
