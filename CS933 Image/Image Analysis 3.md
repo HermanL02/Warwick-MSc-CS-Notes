@@ -12,7 +12,14 @@ The histogram gives us an estimate of the distribution of colours.
 The histogram does not change if we shuffle the image. 
 
 ## What happens if we noise to the image? 
+Histogram
+![[Pasted image 20231018104109.png]]
+Sample and Mean/Variance
 ![[Pasted image 20231018103506.png]]
 N = 512 * 512
 µ = 90.8 (Slightly change)
 σ2 = 1850.6 (Increased)
+
+Histograms of simple images
+![[Pasted image 20231018104212.png]]
+![[Pasted image 20231018104217.png]]
