@@ -23,3 +23,5 @@ N = 512 * 512
 Histograms of simple images
 ![[Pasted image 20231018104212.png]]
 ![[Pasted image 20231018104217.png]]
+# Optimal Threshold using MAP decision rule 
+最大后验概率
