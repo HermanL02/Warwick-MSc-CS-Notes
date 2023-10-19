@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS932L Formal System Design/Lec6. Functions.md",
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS932L Formal System Design/Lec6. Functions.md",
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS932L Formal System Design/Lec6. Functions.md",
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS932L Formal System Design/Lec6. Functions.md"
+                "file": "CS915 Advanced Computer Security/3.2 Block Cipher.md"
               }
             }
           }
@@ -175,8 +176,8 @@
   },
   "active": "7f40aca2fc2ad4de",
   "lastOpenFiles": [
-    "CS933 Image/Image Analysis 3.md",
     "CS932L Formal System Design/Lec6. Functions.md",
+    "CS933 Image/Image Analysis 3.md",
     "Pasted image 20231018104217.png",
     "Pasted image 20231018104212.png",
     "Pasted image 20231018104210 1.png",
