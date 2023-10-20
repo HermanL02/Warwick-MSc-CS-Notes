@@ -36,3 +36,6 @@ Set Pixel Label = (
 1. 对于图像，我们可以从其直方图估计其像素值的概率分布p(k)。这里的意思是，通过分析图像中像素值的分布，我们可以估算图像的熵。
 2. 熵的值是以比特（bits）为单位的。这意味着，一个信号的熵值越大，它包含的信息量就越大。
 3. 冗余描述的是一个信号或数据的“多余”的部分。在这里，冗余被定义为量化位数减去实际的熵。举个例子，对于一个8位图像（即图像的像素值介于0到255之间），如果其熵值为H，那么冗余就是8减去H。
+## Smoothing
+Higher entropy means more information, high noise. 
+More Smooth, the information is more correlated, less random, low noise. 
