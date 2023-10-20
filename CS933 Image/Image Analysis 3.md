@@ -25,4 +25,7 @@ Histograms of simple images
 ![[Pasted image 20231018104217.png]]
 # Optimal Threshold using MAP decision rule 
 最大后验概率， 
+Set Pixel Label = (
+1 if p(1|fi) > p(0|fi)
+0 else }
 # PDF
