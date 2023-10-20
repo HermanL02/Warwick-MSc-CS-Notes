@@ -15,4 +15,10 @@
 • Hierarchical 多级多尺度
   - Pyramids and Wavelet Transforms
 # Contrast Modification
-修改对比度，修改前x，修改后为T(x), 
+修改对比度，修改前x，修改后为T(x)
+
+Log(1+x) mapping -> Lighter
+Gamma mapping: λ > 1 ->Darker
+
+# Histogram Equalisation
+
