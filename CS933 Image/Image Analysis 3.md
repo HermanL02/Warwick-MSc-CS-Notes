@@ -42,4 +42,5 @@ More Smooth, the information is more correlated, less random, low noise.
 
 ## Measure Distortion
 residual sum of squared-errors (RSS)
+$RSS(F, G) = \frac{1}{N} \sum_{i=1}^{N} (f_i - g_i)^2$
 
