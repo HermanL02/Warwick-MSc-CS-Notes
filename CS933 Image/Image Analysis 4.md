@@ -22,3 +22,10 @@ Gamma mapping: λ > 1 ->Darker
 
 # Histogram Equalisation
 
+1. Equalization
+2. Cumulative Histogram
+3. Equalisation Mapping
+4. Overlay the two Cumulative Histograms
+## Histogram Matching
+![[Pasted image 20231020095301.png]]
+Map from given image X (green) to reference image Y (blue)
