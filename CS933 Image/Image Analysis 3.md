@@ -39,3 +39,7 @@ Set Pixel Label = (
 ## Smoothing
 Higher entropy means more information, high noise. 
 More Smooth, the information is more correlated, less random, low noise. 
+
+## Measure Distortion
+residual sum of squared-errors (RSS)
+
