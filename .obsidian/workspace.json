@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bilinear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "CS933 Image/Image Analysis 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Useful Commands.md"
+                "file": "CS933 Image/Image Analysis 2.md"
               }
             }
           }
@@ -187,6 +188,7 @@
   },
   "active": "608ae09a89b460e3",
   "lastOpenFiles": [
+    "CS933 Image/Useful Commands.md",
     "Pasted image 20231012134524.png",
     "CS933 Image/Image Analysis 4.md",
     "Pasted image 20231020095301.png",
@@ -201,7 +203,6 @@
     "Pasted image 20231018104210 1.png",
     "Pasted image 20231018104210.png",
     "Pasted image 20231018104109.png",
-    "Pasted image 20231018103506.png",
     "CS933 Image/Image Analysis 2.md",
     "CS933 Image/Image Analysis 1.md",
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
@@ -211,7 +212,6 @@
     "CS932L Formal System Design/Lec4. More about relations.md",
     "CS932L Formal System Design/未命名.canvas",
     "CS932L Formal System Design/Lec3. Operations and relations.md",
-    "CS933 Image/Useful Commands.md",
     "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
     "CS933 Image/目录 Table of Contents.md",
     "CS907 Dissertation Project/Intro.md",
