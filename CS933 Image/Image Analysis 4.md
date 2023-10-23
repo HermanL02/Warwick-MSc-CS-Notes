@@ -79,5 +79,11 @@ Through sigma we can adjust the effect
 SD 2.5 is more blur than SD = 0.5
 
 ## Gradient Operators
-1. Gradient 定义: f0​(x)=lima→0​af(x+a)−f(x)​
+1. Gradient 定义: 
+$f_0(x) = \lim_{{a \to 0}} \frac{f(x + a) - f(x)}{a}$ : Gradient
+
+$\Delta f(x) = f(x + 1) - f(x)$  有限差分近似，当a=1
+$\Delta c f(x) = \frac{f(x + 1) - f(x - 1)}{2}$ 中心差分近似，当a=2
+$\frac{\partial f(x, y)}{\partial x}, \frac{\partial f(x, y)}{\partial y}$ 对于图像，我们只能估计给定方向的梯度，比如x或者y，对其进行Partial Derivatives
+
 
