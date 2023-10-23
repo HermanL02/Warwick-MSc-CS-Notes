@@ -50,3 +50,5 @@ Map from given image X (green) to reference image Y (blue)
 
 Convolution is the combination of two functions. We consider one 
 
+$g(x) = \sum_{p=-M}^{M} h(p)f(x-p)$
+g(x) 输出图像, f(x) 输入图像, h(p)卷积核, M(卷积核一半的宽度), x and p, 
