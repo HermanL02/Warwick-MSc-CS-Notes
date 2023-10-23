@@ -86,6 +86,9 @@ $\Delta f(x) = f(x + 1) - f(x)$  有限差分近似，当a=1
 $\Delta c f(x) = \frac{f(x + 1) - f(x - 1)}{2}$ 中心差分近似，当a=2
 $\frac{\partial f(x, y)}{\partial x}, \frac{\partial f(x, y)}{\partial y}$ 对于图像，我们只能估计给定方向的梯度，比如x或者y，对其进行Partial Derivatives
 
-## Sobel Outputs
-
-
+## Sobel Lern
+$S(x, y) = \begin{bmatrix} Gx(x, y) \\ Gy(x, y) \end{bmatrix}$
+Magnitude or edge strength: 
+$m(x, y) = \lVert S(x, y) \rVert = \sqrt{Gx(x, y)^2 + Gy(x, y)^2}$
+Argument or edge direction:
+$\theta(x, y) = \arctan\left(\frac{Gy(x, y)}{Gx(x, y)}\right)$
