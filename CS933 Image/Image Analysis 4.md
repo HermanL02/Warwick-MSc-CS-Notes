@@ -45,3 +45,7 @@ Map from given image X (green) to reference image Y (blue)
 5. **Equalization (直方图均衡化)**: 然后，你将均衡化映射应用到原始图像，产生一个新的、对比度增强的图像。
     
 6. **Overlay the two Cumulative Histograms (叠加两个累积直方图)**: 为了比较原始图像和增强后的图像的效果，你可以叠加两个图像的累积直方图。这将展示前后对比度的变化。
+# 卷积Convolution
+## Convolution
+
+Convolution is the combination of two 
