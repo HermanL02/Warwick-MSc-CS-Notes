@@ -76,3 +76,8 @@ Through sigma we can adjust the effect
 
 2D Gaussian: $g(x, y; \sigma) = \exp\left(-\frac{x^2 + y^2}{2\sigma^2}\right)$
 
+SD 2.5 is more blur than SD = 0.5
+
+## Gradient Operators
+1. Gradient 定义: f0​(x)=lima→0​af(x+a)−f(x)​
+
