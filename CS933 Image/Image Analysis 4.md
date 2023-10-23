@@ -74,3 +74,5 @@ Gradient detection: bandpass filtering
 $g(x; \sigma) = \exp\left(-\frac{x^2}{2\sigma^2}\right)$ 
 Through sigma we can adjust the effect
 
+2D Gaussian: $g(x, y; \sigma) = \exp\left(-\frac{x^2 + y^2}{2\sigma^2}\right)$
+
