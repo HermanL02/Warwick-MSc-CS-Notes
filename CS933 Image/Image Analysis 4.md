@@ -69,3 +69,8 @@ Kernels have different effects
 Smoothing: low-pass filtering
 Sharpening: high-pass filtering
 Gradient detection: bandpass filtering
+
+## Gaussian Kernels
+$g(x; \sigma) = \exp\left(-\frac{x^2}{2\sigma^2}\right)$ 
+Through sigma we can adjust the effect
+
