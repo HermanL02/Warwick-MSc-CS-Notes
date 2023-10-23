@@ -51,4 +51,21 @@ Map from given image X (green) to reference image Y (blue)
 Convolution is the combination of two functions. We consider one 
 
 $g(x) = \sum_{p=-M}^{M} h(p)f(x-p)$
-g(x) 输出图像, f(x) 输入图像, h(p)卷积核, M(卷积核一半的宽度), x and p, 
+g(x) 输出图像, f(x) 输入图像, h(p)卷积核, M(卷积核一半的宽度)
+x 代表了输出信号或图像 g(x) 的一个特定位置。
+p是与核（或滤波器）相关的一个偏移量，用于指示在输入信号或图像 f(x) 中与当前 x 位置相对应的点。
+当我们想计算输出 g(x) 在位置 x 的值时，我们需要查看输入f(x) 在周围的位置。具体地，我们会考虑从 x−M 到 x+M 的位置（这就是为什么求和的范围是从 −M 到 M）。对于每一个这样的位置，我们都使用 h(p) 来加权这个位置的值，然后加到 g(x) 上。p 的值就是告诉我们查看输入 f(x) 的哪个位置。
+
+## Simple Example part 
+When the kernel is 3* 3 and the value is 1/9 then we use 1/9 * (102 + 75 + 27 + 135 + 111 + 95 + 107 + 4 + 51)
+## Boundary Extension in Convocation 
+1. 方法1: Use **ZERO** for the outside pixels
+2. 方法2: Wrap Kernel to the other side 举例来说，如果我们在一个水平维度上处理一个图像，并且滤波器从右边界超出，那么滤波器超出的部分会在图像的左侧开始。
+3. 方法3: **扩展输入图像**：在每个方向上，将图像扩展半个滤波器的大小。然后，可以使用以下方法来填充新增的像素：
+- **复制边界值**：这意味着对于新增的像素，我们简单地复制最近的边界像素的值。
+- **镜像边界值**：这意味着对于新增的像素，我们使用与边界相反方向的像素值，创建一种镜像效果。
+## Kernel Types
+Kernels have different effects
+Smoothing: low-pass filtering
+Sharpening: high-pass filtering
+Gradient detection: bandpass filtering
