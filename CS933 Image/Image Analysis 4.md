@@ -46,6 +46,7 @@ Map from given image X (green) to reference image Y (blue)
     
 6. **Overlay the two Cumulative Histograms (叠加两个累积直方图)**: 为了比较原始图像和增强后的图像的效果，你可以叠加两个图像的累积直方图。这将展示前后对比度的变化。
 # 卷积Convolution
-## Convolution
+## Def
 
-Convolution is the combination of two 
+Convolution is the combination of two functions. We consider one 
+
