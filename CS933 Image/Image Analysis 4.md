@@ -86,4 +86,6 @@ $\Delta f(x) = f(x + 1) - f(x)$  有限差分近似，当a=1
 $\Delta c f(x) = \frac{f(x + 1) - f(x - 1)}{2}$ 中心差分近似，当a=2
 $\frac{\partial f(x, y)}{\partial x}, \frac{\partial f(x, y)}{\partial y}$ 对于图像，我们只能估计给定方向的梯度，比如x或者y，对其进行Partial Derivatives
 
+## Sobel Outputs
+
 
