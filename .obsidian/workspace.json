@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Image Analysis 4.md",
+                "file": "CS915 Advanced Computer Security/3.3 Hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Image Analysis 4.md",
+                "file": "CS915 Advanced Computer Security/3.3 Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Image Analysis 4.md",
+                "file": "CS915 Advanced Computer Security/3.3 Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Image Analysis 4.md"
+                "file": "CS915 Advanced Computer Security/3.3 Hash.md"
               }
             }
           }
@@ -197,8 +197,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d2a671e06feb8be0",
+  "active": "7c2ddccb614a384f",
   "lastOpenFiles": [
+    "CS932L Formal System Design/Review of Discrete Math.md",
     "CS915 Advanced Computer Security/3.3 Hash.md",
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
     "CS933 Image/Image Analysis 4.md",
@@ -222,7 +223,6 @@
     "Pasted image 20231018104109.png",
     "CS933 Image/Image Analysis 1.md",
     "CS932L Formal System Design/Lec5. Nondeterminism.md",
-    "CS932L Formal System Design/Review of Discrete Math.md",
     "CS932L Formal System Design/未命名.canvas",
     "CS932L Formal System Design/Lec3. Operations and relations.md",
     "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
