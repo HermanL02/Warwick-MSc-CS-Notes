@@ -21,6 +21,11 @@ iseq(X) = seq(X) ∩ (N  X)
 The set of all seqs in which each element of X occurs exactly once:
 perm(X) = 
 
+## Declaring sequences
+playlist ∈ seq(TRACK)
+game ∈ seq1(MOVE)
+checkout ∈ iseq(PERSON)
+presentations ∈ perm(STUDENT)
 
 
 
