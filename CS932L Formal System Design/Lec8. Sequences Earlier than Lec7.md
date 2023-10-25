@@ -27,6 +27,14 @@ game ∈ seq1(MOVE)
 checkout ∈ iseq(PERSON)
 presentations ∈ perm(STUDENT)
 
+## Can use relational and set operators
+Can use all previous operators which work for sets of pairs.
+Some are generally useful:
+[tt3,tt27,tt14,tt3,tt8] <+{2 7→ tt4} = [tt3,tt4,tt14,tt3,tt8]
+tt4 ∈ ran[tt3,tt4,tt14,tt3,tt8]
+[tt3,tt27,tt14,tt3,tt8](3) = tt14
+
+
 
 
 
