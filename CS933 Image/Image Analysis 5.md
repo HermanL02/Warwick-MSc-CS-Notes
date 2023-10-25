@@ -21,4 +21,9 @@ G代表Gaussian
 
 $Pˆ(f,l) = EXP AND [P(f,l + 1)] = G ~ (P(f,l + 1) ⬆2)?$
 
+## Laplacian Level by Difference of Gaussians
+### How to build 
+- The difference between L Level's Photo - The expanded version of the next level's (L+1) 's photo.  Then we can get the **high-pass** photo. 
+- We can also add the difference to the expanded version to get the original photo. 
+
 
