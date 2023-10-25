@@ -34,7 +34,8 @@ Some are generally useful:
 tt4 ∈ ran[tt3,tt4,tt14,tt3,tt8]
 [tt3,tt27,tt14,tt3,tt8](3) = tt14
 
-## 
+## Example
+
 
 
 
