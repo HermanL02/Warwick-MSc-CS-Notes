@@ -12,8 +12,8 @@ CONSTANTS maxmark, MARK
 
   
 
-PROPERTIES maxmark : NAT1 & MARK = 0..maxmark
-
+PROPERTIES maxmark : NAT1 & MARK = 0..maxmark 
+== Describes conditions for sets & constants ==
   
 
 VARIABLES students, projects, marks
