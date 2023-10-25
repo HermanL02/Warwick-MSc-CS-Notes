@@ -1,4 +1,5 @@
-Functions
+https://chat.openai.com/share/e010d8c9-dd80-49dc-bf40-7ef68b11a989
+
 
 # Functions Knowledge
 
