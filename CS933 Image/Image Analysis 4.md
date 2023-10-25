@@ -102,4 +102,4 @@ $\theta(x, y) = \arctan\left(\frac{Gy(x, y)}{Gx(x, y)}\right)$
 ## Laplacian of Gaussian Operator
 The Lapacian is the sum of the partial second derivatives in x and y
 
-Out
+Zero Crossing of La
