@@ -36,5 +36,81 @@ $Pˆ(f,l) = EXP AND [P(f,l + 1)] = G ~ (P(f,l + 1) ⬆2)?$
 4. Invert to reconstruct, expand, add, expand
 5. Quantization 
 6. Low Pass Coefficient More bits: Low Pass means general structure(shape, boundary, and large area colors)
-7. High Pass Coefficient Less bits: 
+7. High Pass Coefficient Less bits
+
+Pyramid viewed as a Filter Bank
+
+• The Laplacian Pyramid operation (+ Gaussian Level) can be viewed a
+
+filter bank decomposition of the image
+
+14
+
+LP
+
+HP
+
+LP
+
+HP
+
+LP
+
+HP
+
+P(f, 1)
+
+f(x, y)
+
+L(f, 1)
+
+P(f, 2)
+
+L(f, 2)
+
+P(f, 3)
+
+L(f, 3)
+
+Only P(f, 3), L(f, 3), L(f, 2), L(f, 1) are
+
+required to reconstruct f(x, y)Pyramid viewed as a Filter Bank
+
+• The Laplacian Pyramid operation (+ Gaussian Level) can be viewed a
+
+filter bank decomposition of the image
+
+14
+
+LP
+
+HP
+
+LP
+
+HP
+
+LP
+
+HP
+
+P(f, 1)
+
+f(x, y)
+
+L(f, 1)
+
+P(f, 2)
+
+L(f, 2)
+
+P(f, 3)
+
+L(f, 3)
+
+Only P(f, 3), L(f, 3), L(f, 2), L(f, 1) are
+
+required to reconstruct f(x, y)
+
+
 
