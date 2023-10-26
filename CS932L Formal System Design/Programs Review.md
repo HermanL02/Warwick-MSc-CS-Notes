@@ -60,7 +60,7 @@ PRE ss:STUDENT & ss /: students
 
 THEN
 
-==随机分配到一个project里面==
+==随机从集合里选一个东西，并对其进行操作==
 
 ANY proj
 
@@ -85,7 +85,7 @@ PRE
 ss:STUDENT & ss : dom(projects)
 
 THEN
-
+==maplet当成字典用，给左取右==
 pp := projects(ss)
 
 END;
@@ -99,6 +99,7 @@ PRE
 ss:STUDENT & mm:MARK & ss:students
 
 THEN
+==<+可以覆写字典的左侧的对应值（也是maplet）==
 
 marks := marks <+ {ss |-> mm}
 
