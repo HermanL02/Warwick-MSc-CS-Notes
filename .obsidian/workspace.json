@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS932L Formal System Design/Programs Review.md",
+                "file": "CS915 Advanced Computer Security/3.3 Hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS932L Formal System Design/Programs Review.md",
+                "file": "CS915 Advanced Computer Security/3.3 Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS932L Formal System Design/Programs Review.md",
+                "file": "CS915 Advanced Computer Security/3.3 Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS932L Formal System Design/Programs Review.md"
+                "file": "CS915 Advanced Computer Security/3.3 Hash.md"
               }
             }
           }
@@ -211,8 +211,8 @@
   },
   "active": "aeed2d64d9b69f8c",
   "lastOpenFiles": [
-    "CS932L Formal System Design/Lec8. Sequences Earlier than Lec7.md",
     "CS932L Formal System Design/Programs Review.md",
+    "CS932L Formal System Design/Lec8. Sequences Earlier than Lec7.md",
     "CS932L Formal System Design/Lec6. Functions.md",
     "CS933 Image/Image Analysis 5.md",
     "CS933 Image/Image Analysis 4.md",
