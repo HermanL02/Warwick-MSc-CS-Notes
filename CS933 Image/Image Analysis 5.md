@@ -48,6 +48,7 @@ FT: Used to transform time to Frequency
 
 ## Basis Projection 
 
+How: Multiply and add two signals
 
 
 
