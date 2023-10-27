@@ -22,7 +22,11 @@ Stands for "The Declaration on Research Assessment"
 
 Digital Operational Resilience Act
 
-[Metrics]()
+### [Metrics](https://scholar.google.co.uk/citations?view_op=top_venues) 
 List of the most influential publication 
 
+# Guest Speaker Part - Reproducibility
 
+## [The Turing Way](https://the-turing-way.netify.app/welcome.html)
+
+More than 70% researchers failed in their attempt to reproduce another researcher's experiments and over 50% failed to reproduce one of their own experiments
