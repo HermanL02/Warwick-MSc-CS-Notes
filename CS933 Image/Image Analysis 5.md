@@ -51,5 +51,8 @@ FT: Used to transform time to Frequency
 How: Multiply and add two signals
 
 
+## Discrete Transform Basis functions
+
+
 
  
