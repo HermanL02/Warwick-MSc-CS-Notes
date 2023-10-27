@@ -50,6 +50,7 @@ Ex.通过Anaconda进行version control, 确保package版本一致
 ## NeurIPS 2019 Reproducibility Program
 
 
-# Guest Speaker 2: What people talk about when they talk about the weather By Maria Ovens
+# Guest Speaker 2: What people talk about when they talk about the weather
+## Lecturer: Maria Ovens 
 
 #### 剩下的看ppt吧...
