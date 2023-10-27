@@ -10,3 +10,5 @@ We can see:
 1. Citation over year
 2. Publish year
 3. Collaborator
+# [CORE](https://www.core.edu.au/conference-portal)
+Ranking Portal
