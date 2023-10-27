@@ -53,6 +53,8 @@ How: Multiply and add two signals
 
 ## Discrete Transform Basis functions
 
+[How do you find the integral of cos(mx)⋅cos(nx)? ](https://socratic.org/questions/how-do-you-find-the-integral-of-cos-mx-cos-nx)
+
 
 
  
