@@ -42,4 +42,6 @@ $Pˆ(f,l) = EXP AND [P(f,l + 1)] = G ~ (P(f,l + 1) ⬆2)?$
 
 • The Laplacian Pyramid operation (+ Gaussian Level) can be viewed as filter  bank decomposition of the image
 
+# Transform Domain Analysis
+
  
