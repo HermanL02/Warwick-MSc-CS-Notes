@@ -18,5 +18,11 @@ Like a topic, Artificial intelligence2
 ## [DORA](https://sfdora.org/)
 Stands for "The Declaration on Research Assessment"
 
+## Another [DORA](https://www.digital-operational-resilience-act.com/) 
+
+Digital Operational Resilience Act
+
+[Metrics]()
+List of the most influential publication 
 
 
