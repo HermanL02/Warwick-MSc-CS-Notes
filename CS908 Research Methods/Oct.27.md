@@ -32,3 +32,5 @@ List of the most influential publication
 More than 70% researchers failed in their attempt to reproduce another researcher's experiments and over 50% failed to reproduce one of their own experiments
 
 ## Reproductive research and Replicable research
+
+#### 剩下的看ppt吧...
