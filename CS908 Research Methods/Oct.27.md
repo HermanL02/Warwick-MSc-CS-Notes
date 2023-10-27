@@ -58,6 +58,8 @@ Interesting idea : Foolish idea
 Not bad : Good
 ...
 ## Survey: What are we doing when we talk to each other? 
+### Linguistics 
+### Pragmatics - meaning in interaction 
 
 
 #### 剩下的看ppt吧...
