@@ -4,5 +4,9 @@
 Stands for : Warwick Research Author Repository
 ## DBLP 
 Database of Computer Science Bibliography
+## Google Scholar
 
-## 
+We can see: 
+1. Citation over year
+2. Publish year
+3. Collaborator
