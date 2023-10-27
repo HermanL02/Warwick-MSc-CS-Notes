@@ -52,5 +52,6 @@ Ex.通过Anaconda进行version control, 确保package版本一致
 
 # Guest Speaker 2: What people talk about when they talk about the weather
 ## Lecturer: Maria Ovens 
+## Lect
 
 #### 剩下的看ppt吧...
