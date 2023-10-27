@@ -52,6 +52,12 @@ Ex.通过Anaconda进行version control, 确保package版本一致
 
 # Guest Speaker 2: What people talk about when they talk about the weather
 ## Lecturer: Maria Ovens 
-## Lect
+
+## British meanings and actual meanings
+Interesting idea : Foolish idea
+Not bad : Good
+...
+## Survey: What are we doing when we talk to each other? 
+
 
 #### 剩下的看ppt吧...
