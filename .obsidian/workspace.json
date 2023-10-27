@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Image Analysis 5.md",
+                "file": "CS908 Research Methods/Oct.27.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Image Analysis 5.md",
+                "file": "CS908 Research Methods/Oct.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Image Analysis 5.md",
+                "file": "CS908 Research Methods/Oct.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Image Analysis 5.md"
+                "file": "CS908 Research Methods/Oct.27.md"
               }
             }
           }
@@ -211,6 +211,9 @@
   },
   "active": "aeed2d64d9b69f8c",
   "lastOpenFiles": [
+    "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
+    "CS908 Research Methods/Oct.27.md",
+    "CS933 Image/Image Analysis 5.md",
     "CS932L Formal System Design/Programs Review.md",
     "CS933 Image/Useful Commands.md",
     "CS933 Image/目录 Table of Contents.md",
@@ -218,7 +221,6 @@
     "CS915 Advanced Computer Security/3.3 Hash.md",
     "CS932L Formal System Design/Lec8. Sequences Earlier than Lec7.md",
     "CS932L Formal System Design/Lec6. Functions.md",
-    "CS933 Image/Image Analysis 5.md",
     "CS933 Image/Image Analysis 4.md",
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
     "CS932L Formal System Design/Review of Discrete Math.md",
@@ -242,7 +244,6 @@
     "CS932L Formal System Design/Lec5. Nondeterminism.md",
     "CS932L Formal System Design/未命名.canvas",
     "CS932L Formal System Design/Lec3. Operations and relations.md",
-    "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
     "CS907 Dissertation Project/Intro.md",
     "CS908 Research Methods",
     "().md",
