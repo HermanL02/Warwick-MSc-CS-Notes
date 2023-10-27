@@ -44,7 +44,10 @@ $Pˆ(f,l) = EXP AND [P(f,l + 1)] = G ~ (P(f,l + 1) ⬆2)?$
 
 # Transform Domain Analysis
 DCT: Transform the signal from spatial domain to frequency domain, used for compression
-FT: Used to transfrom 
+FT: Used to transform time to Frequency
+
+## Basis Projection 
+
 
 
 
