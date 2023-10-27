@@ -33,4 +33,22 @@ More than 70% researchers failed in their attempt to reproduce another researche
 
 ## Reproductive research and Replicable research
 
+Trust in scientific results and scientific research 
+Scientific progress and research dissention
+
+### 1. Version Control
+
+Storage, Meta data ...
+
+### 2. Fair data 
+Findable, Accessible...
+
+### 3. Reproductive Environments
+Python? 
+### 4. Capture computational environments
+Ex.通过Anaconda进行version control, 确保package版本一致
+## NeurIPS 2019 Reproducibility Program
+
+
+
 #### 剩下的看ppt吧...
