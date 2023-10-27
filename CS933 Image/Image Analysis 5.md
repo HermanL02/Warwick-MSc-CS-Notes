@@ -40,8 +40,12 @@ $Pˆ(f,l) = EXP AND [P(f,l + 1)] = G ~ (P(f,l + 1) ⬆2)?$
 
 # Pyramid viewed as a Filter Bank  
 
-• The Laplacian Pyramid operation (+ Gaussian Level) can be viewed as filter  bank decomposition of the image
+• The Laplacian Pyramid operation (+ Gaussian Level) can be viewed as filter bank decomposition of the image
 
 # Transform Domain Analysis
+DCT: Transform the signal from spatial domain to frequency domain, used for compression
+FT: Used to transfrom 
+
+
 
  
