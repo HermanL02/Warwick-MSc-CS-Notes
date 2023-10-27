@@ -15,6 +15,8 @@ We can see:
 Search conferences, like mentioned before, NeurIPS...
 Like a topic, Artificial intelligence2
 #### Why useful? 
+## [DORA](https://sfdora.org/)
+Stands for "The Declaration on Research Assessment"
 
 
 
