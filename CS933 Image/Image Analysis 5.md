@@ -55,6 +55,9 @@ How: Multiply and add two signals
 
 [How do you find the integral of cos(mx)⋅cos(nx)? ](https://socratic.org/questions/how-do-you-find-the-integral-of-cos-mx-cos-nx)
 
+DCT is invertible
+
+
 
 
 
