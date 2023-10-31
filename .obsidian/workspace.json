@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Image Analysis 6 Fourier Transforms.md",
+                "file": "CS932L Formal System Design/Lec7. Verification.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Image Analysis 6 Fourier Transforms.md",
+                "file": "CS932L Formal System Design/Lec7. Verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Image Analysis 6 Fourier Transforms.md",
+                "file": "CS932L Formal System Design/Lec7. Verification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Image Analysis 6 Fourier Transforms.md"
+                "file": "CS932L Formal System Design/Lec7. Verification.md"
               }
             }
           }
@@ -211,10 +211,15 @@
   },
   "active": "aeed2d64d9b69f8c",
   "lastOpenFiles": [
+    "CS932L Formal System Design/Lec8. Sequences Earlier than Lec7.md",
+    "CS932L Formal System Design/Lec7. Verification.md",
+    "CS907 Dissertation Project/Intro.md",
+    "CS908 Research Methods/Oct.27.md",
+    "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
+    "CS933 Image/Image Analysis 6 Fourier Transforms.md",
     "Pasted image 20231030124101.png",
     "Pasted image 20231030124055.png",
     "CS933 Image/Image Analysis 5.md",
-    "CS933 Image/Image Analysis 6 Fourier Transforms.md",
     "CS933 Image/目录 Table of Contents.md",
     "CS933 Image/Useful Commands.md",
     "CS933 Image/Oct. 09.md",
@@ -223,11 +228,8 @@
     "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "CS915 Advanced Computer Security/3.3 Hash.md",
     "CS915 Advanced Computer Security/TLS 1.3.md",
-    "CS908 Research Methods/Oct.27.md",
     "Pasted image 20231018104210.png",
-    "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
     "CS932L Formal System Design/Programs Review.md",
-    "CS932L Formal System Design/Lec8. Sequences Earlier than Lec7.md",
     "CS932L Formal System Design/Lec6. Functions.md",
     "CS933 Image/Image Analysis 4.md",
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
@@ -243,11 +245,9 @@
     "Pasted image 20231020092426.png",
     "Pasted image 20231018104217.png",
     "Pasted image 20231018104212.png",
-    "Pasted image 20231018104210 1.png",
     "CS933 Image/Image Analysis 1.md",
     "CS932L Formal System Design/Lec5. Nondeterminism.md",
     "CS932L Formal System Design/未命名.canvas",
-    "CS932L Formal System Design/Lec3. Operations and relations.md",
     "CS908 Research Methods",
     "未命名.canvas",
     "Recording 20231010101155.webm",
