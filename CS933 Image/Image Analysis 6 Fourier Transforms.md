@@ -13,7 +13,8 @@ $\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \ldots$
 $e^{ix} = \cos(x) + i\sin(x)$
 $i = \sqrt{-1}$
 
-So, what is $e^{jwt}$, in this case, j is i: complex number, w is 
+So, what is $e^{jwt}$, in this case, j is i: complex number, w is frequency, t is the time point
+
 
 
 
