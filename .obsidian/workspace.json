@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md",
+                "file": "CS915 Advanced Computer Security/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md",
+                "file": "CS915 Advanced Computer Security/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md",
+                "file": "CS915 Advanced Computer Security/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md"
+                "file": "CS915 Advanced Computer Security/未命名.md"
               }
             }
           }
@@ -211,8 +211,9 @@
   },
   "active": "aeed2d64d9b69f8c",
   "lastOpenFiles": [
-    "CS915 Advanced Computer Security/3.4 MAC.md",
     "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md",
+    "CS915 Advanced Computer Security/未命名.md",
+    "CS915 Advanced Computer Security/3.4 MAC.md",
     "CS933 Image/Image Analysis 6 Fourier Transforms.md",
     "CS932L Formal System Design/Lec7. Verification.md",
     "CS932L Formal System Design/Lec8. Sequences Earlier than Lec7.md",
@@ -246,7 +247,6 @@
     "Pasted image 20231018104217.png",
     "Pasted image 20231018104212.png",
     "CS933 Image/Image Analysis 1.md",
-    "CS932L Formal System Design/Lec5. Nondeterminism.md",
     "CS932L Formal System Design/未命名.canvas",
     "CS908 Research Methods",
     "未命名.canvas",
