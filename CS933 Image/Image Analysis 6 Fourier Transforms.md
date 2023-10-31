@@ -11,7 +11,10 @@ $\cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \ldots$
 $\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \ldots$
 5. 结合上述等式得到欧拉公式：
 $e^{ix} = \cos(x) + i\sin(x)$
-$i=/sqrt(-1)$
+$i = \sqrt{-1}$
+
+So, what is $e^{jwt}$, in this case, j is i: complex number, w is 
+
 
 
 
