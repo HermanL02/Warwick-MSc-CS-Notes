@@ -1,3 +1,4 @@
+# Previous Complex Exponential Knowledge
 ![[Pasted image 20231030124101.png]]
 1. 指数函数的泰勒级数展开：
 $e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \frac{x^4}{4!} + \ldots$
@@ -10,5 +11,7 @@ $\cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \ldots$
 $\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \ldots$
 5. 结合上述等式得到欧拉公式：
 $e^{ix} = \cos(x) + i\sin(x)$
+$i=/sqrt(-1)$
+
 
 
