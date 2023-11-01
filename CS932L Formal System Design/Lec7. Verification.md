@@ -8,5 +8,7 @@ i>-1
 z>=y
 3. $[i := i + 1]j = 6$
 j=6
+# Pre
+Pre condition takes conjunction
 
 
