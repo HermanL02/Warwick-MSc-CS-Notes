@@ -26,3 +26,11 @@ Example 1.
 persondata : struct(p name : NAME, p age : N)
 persondata := rec(p name : myname, p age : 21)
 ```
+Example 2. 
+```
+1. 
+clubreg : MID 7→ struct(memname : NAME, memDOB : DOB)
+2. 
+clubreg := {}
+clubreg(mm) := rec(memname : inputname, memDOB : inputDOB)
+```
