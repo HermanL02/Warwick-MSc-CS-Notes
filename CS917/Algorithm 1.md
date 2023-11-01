@@ -4,6 +4,8 @@ Monday: 4-6pm
 # Intro
 # GCD Program
 # Big O
+Time/Space Complexity
+
 
 
 
