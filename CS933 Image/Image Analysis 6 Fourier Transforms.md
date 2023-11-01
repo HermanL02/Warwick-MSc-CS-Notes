@@ -25,6 +25,10 @@ $$
 $$
 $F(u) = \frac{1}{N} \sum_{x=0}^{N-1} f(x)\cos(2\pi ux/N) - j \frac{1}{N} \sum_{x=0}^{N-1} f(x)\sin(2\pi ux/N)$
 
+# Fourier Coefficients are Complex 
+
+Through Fourier Transform, we can decompose a function to multiple sine and cosine functions. There are imaginary part in the Fourier Transform.
+
 
 
 
