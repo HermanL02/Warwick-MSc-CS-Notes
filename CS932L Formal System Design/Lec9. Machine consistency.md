@@ -8,4 +8,3 @@
 Basic Initialisation Condition
 1. For initialisation init and invariant I: `[init]I`
 2. For invariant I, precondition Pre and operation body S: `I ∧ Pre ⇒ [S]I`
-3. 
