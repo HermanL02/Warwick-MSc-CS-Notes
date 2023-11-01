@@ -20,3 +20,4 @@ So, what is $e^{jwt}$, in this case, j is i: complex number, w is frequency, t i
 
 
 
+
