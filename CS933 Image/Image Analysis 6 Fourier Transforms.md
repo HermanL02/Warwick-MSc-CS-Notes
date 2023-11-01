@@ -41,7 +41,9 @@ Use more smoother functions, use high pass filters
 
 ## Drawbacks of the solution of high pass filters 
 
-Bluring
+Blurring
+
+
 
 
 
