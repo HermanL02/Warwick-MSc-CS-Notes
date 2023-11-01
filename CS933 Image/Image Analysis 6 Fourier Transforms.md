@@ -27,3 +27,5 @@ $F(u) = \frac{1}{N} \sum_{x=0}^{N-1} f(x)\cos(2\pi ux/N) - j \frac{1}{N} \sum_{x
 
 
 
+
+
