@@ -3,6 +3,8 @@ Monday: 4-6pm
 # Structure
 # Intro
 # GCD Program
+# Big O
+
 
 
 
