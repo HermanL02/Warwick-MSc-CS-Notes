@@ -39,9 +39,17 @@ When the continues signal wave is cut off when filtering, there is a discontinui
 ## How to solve? 
 Use more smoother functions, use high pass filters
 
-## Drawbacks of the solution of high pass filters 
+## High pass filters Drawbacks
 
 Blurring
+
+## Solution
+
+So if I use both low pass and high pass filtering, it would generate the original image. (LP is used on denoise, and HP used on edge detection. )
+
+# Windowed Fourier Transforms
+## Why 
+Local part could analyse the partial features, the local edge orientations
 
 
 
