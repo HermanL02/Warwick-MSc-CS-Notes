@@ -29,7 +29,6 @@ $F(u) = \frac{1}{N} \sum_{x=0}^{N-1} f(x)\cos(2\pi ux/N) - j \frac{1}{N} \sum_{x
 
 Through Fourier Transform, we can decompose a function to multiple sine and cosine functions. There are imaginary part in the Fourier Transform.
 
-
-
-
+# Fourier Transform used on Filtering
+当我们使用卷积定理进行卷积时，涉及到两个操作：傅里叶变换和傅里叶逆变换。对于长序列或大的卷积核，直接在空间域中进行卷积的复杂度可能会很高（尤其是当卷积核和输入序列都很长时）。因此，使用FFT进行傅里叶域的乘法然后再进行逆变换通常更为高效。
 
