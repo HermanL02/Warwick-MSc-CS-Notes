@@ -15,9 +15,15 @@ $i = \sqrt{-1}$
 
 So, what is $e^{jwt}$, in this case, j is i: complex number, w is frequency, t is the time point
 
-
-
-
+$F(u) = \frac{1}{N} \sum_{x=0}^{N-1} f(x)e^{-j2\pi ux/N}$
+$$
+\begin{align*}
+\text{Data samples are } & f(x), \quad 0 \leq x < N \\
+\text{Frequency sampled at } & 0 \leq u < N \\
+\text{Exponent } & \frac{2\pi ux}{N} \text{ is in radians, } 0 \leq \omega < 2\pi
+\end{align*}
+$$
+$F(u) = \frac{1}{N} \sum_{x=0}^{N-1} f(x)\cos(2\pi ux/N) - j \frac{1}{N} \sum_{x=0}^{N-1} f(x)\sin(2\pi ux/N)$
 
 
 
