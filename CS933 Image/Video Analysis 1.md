@@ -27,5 +27,6 @@ Treat the whole as array and apply filters on that
 Things move repidly: see change
 slowly: no change
 ```
+# Background modelling with mixture gaussians
 
 ```
