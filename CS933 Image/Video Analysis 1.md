@@ -4,4 +4,10 @@
 3. Estimate Motions using optical flow
 4. View Geometry and Camera Calibration
 # Background Subtraction Modelling
-First step is to separate foreground objects from stationary background
+- First step is to separate foreground objects from stationary background
+- Assume camera is fixed
+## Hardness
+1. illumination
+2. shadows
+3. stakes
+4. background motions
