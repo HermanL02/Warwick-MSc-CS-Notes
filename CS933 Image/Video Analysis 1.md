@@ -13,4 +13,6 @@
 4. background motions
 5. occlusions'
 6. Caption noise
-7. 
+
+# Camera Fixed
+
