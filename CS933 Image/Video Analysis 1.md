@@ -24,3 +24,8 @@
 - Likelihoods test to decide temporal changes from current model 
 ## Frame differencing and Thresholding
 Treat the whole as array and apply filters on that
+Things move repidly: see change
+slowly: no change
+```
+
+```
