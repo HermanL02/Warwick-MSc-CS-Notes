@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS917/Algorithm 1.md",
+                "file": "CS933 Image/Image Analysis 6 Fourier Transforms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS917/Algorithm 1.md",
+                "file": "CS933 Image/Image Analysis 6 Fourier Transforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS917/Algorithm 1.md",
+                "file": "CS933 Image/Image Analysis 6 Fourier Transforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS917/Algorithm 1.md"
+                "file": "CS933 Image/Image Analysis 6 Fourier Transforms.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "aeed2d64d9b69f8c",
   "lastOpenFiles": [
-    "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
+    "CS915 Advanced Computer Security/3.2 Block Cipher.md",
     "CS917/Algorithm 1.md",
+    "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
     "CS917",
     "CS932L Formal System Design/Lec9. Machine consistency.md",
     "CS932L Formal System Design/Lec7. Verification.md",
@@ -176,7 +177,6 @@
     "Pasted image 20231018104210.png",
     "CS932L Formal System Design/Programs Review.md",
     "CS933 Image/Image Analysis 4.md",
-    "CS915 Advanced Computer Security/3.2 Block Cipher.md",
     "CS932L Formal System Design/Review of Discrete Math.md",
     "CS932L Formal System Design/Lec4. More about relations.md",
     "Pasted image 20231012134524.png",
