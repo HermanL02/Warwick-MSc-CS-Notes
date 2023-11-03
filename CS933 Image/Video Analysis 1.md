@@ -12,3 +12,5 @@
 3. stakes
 4. background motions
 5. occlusions'
+6. Caption noise
+7. 
