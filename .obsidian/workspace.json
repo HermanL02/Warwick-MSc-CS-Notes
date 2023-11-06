@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
+                "file": "CS933 Image/Video Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
+                "file": "CS933 Image/Video Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
+                "file": "CS933 Image/Video Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md"
+                "file": "CS933 Image/Video Analysis.md"
               }
             }
           }
@@ -150,13 +149,14 @@
   },
   "active": "aeed2d64d9b69f8c",
   "lastOpenFiles": [
+    "CS933 Image/Image Analysis 6 Fourier Transforms.md",
+    "CS933 Image/Video Analysis.md",
+    "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
     "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md",
     "CS915 Advanced Computer Security/4.2 Software Security-Race Condition.md",
-    "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
     "Pasted image 20231106111307.png",
     "Pasted image 20231106111159.png",
     "CS915 Advanced Computer Security/Pre-Lecture Questions Collection.md",
-    "CS933 Image/Image Analysis 6 Fourier Transforms.md",
     "CS933 Image/Oct. 09.md",
     "CS933 Image/Image Analysis 5.md",
     "CS933 Image/Image Analysis 2.md",
