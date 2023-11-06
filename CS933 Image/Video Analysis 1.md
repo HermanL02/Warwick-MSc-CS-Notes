@@ -31,5 +31,9 @@
 ```
 
 # Gaussian Model of Background 
-• Aim is to model each pixel over time as being drawn from a normal
-distribution: parameterise by mean and variance
+- Aim is to model each pixel over time as being drawn from a normal
+distribution: parameterise by mean and variance 对于视频中的每个像素，我们可以使用一组参数（均值和方差）来描述其随时间变化的特性。具体地，我们假设每个像素值的变化遵循正态分布
+$B(x, y) \sim N(\mu_{x,y}, \sigma_{x,y}^2) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(B-\mu)^2}{2\sigma^2}}$
+- $\mu(t + 1) = \alpha F(t) + (1 - \alpha)$
+- $\mu(t)\sigma^2(t + 1) = \alpha (F(t) - \mu(t))^2 + (1 - \alpha) \sigma^2(t)$
+- 其中，F(t)是在时间t的像素值，α是一个学习率，它决定了新像素值与历史数据之间的权重。
