@@ -1,1 +1,0 @@
-Gaussian Model of Background

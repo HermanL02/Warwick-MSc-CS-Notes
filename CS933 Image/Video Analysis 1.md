@@ -23,10 +23,11 @@
 - Mixture of Gaussians
 - Likelihoods test to decide temporal changes from current model 
 ## Frame differencing and Thresholding
-Treat the whole as array and apply filters on that
-Things move repidly: see change
-slowly: no change
+1. Treat the whole as array and apply filters on that
+2. Things move repidly: see change
+3. slowly: no change
 ```
 # Background modelling with mixture gaussians
-
 ```
+
+# Gaussian Model of Background 
