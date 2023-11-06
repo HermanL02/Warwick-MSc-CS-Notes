@@ -31,3 +31,5 @@
 ```
 
 # Gaussian Model of Background 
+• Aim is to model each pixel over time as being drawn from a normal
+distribution: parameterise by mean and variance
