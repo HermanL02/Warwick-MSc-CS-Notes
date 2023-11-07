@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Video Analysis 1.md",
+                "file": "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Video Analysis 1.md",
+                "file": "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Video Analysis 1.md",
+                "file": "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Video Analysis 1.md"
+                "file": "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "aeed2d64d9b69f8c",
   "lastOpenFiles": [
+    "CS933 Image/Video Analysis 1.md",
     "CS933 Image/Image Analysis 6 Fourier Transforms.md",
     "CS933 Image/Video Analysis.md",
     "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
@@ -163,7 +164,6 @@
     "CS932L Formal System Design/Lec6. Functions.md",
     "CS933 Image/未命名.md",
     "CS933 Image/Useful Commands.md",
-    "CS933 Image/Video Analysis 1.md",
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
     "CS917/Algorithm 1.md",
     "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
