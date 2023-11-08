@@ -11,4 +11,7 @@
 - Pose Invariant: Even if it is rotated, scaled or skewed
 - Local: small part so even there is a partial photo we can understand
 - Repeatable: Invariant to all the objects
+# Harris-Stephens Corner Detector
+1. Low-level features
+2. 
 
