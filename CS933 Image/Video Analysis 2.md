@@ -13,5 +13,7 @@
 - Repeatable: Invariant to all the objects
 # Harris-Stephens Corner Detector
 1. Low-level features
-2. 
+2. $E(u, v) = \sum_{(x,y) \in W} w(x, y) [I(x + u, y + v) - I(x, y)]^2$
+3. 这个方程代表对一个图形进行移动shift，x，y是原始值，u，v是移动值，这样来判断特征，w是一个window，为x，y分配权重？
+## Harris using Taylor Expansion 
 
