@@ -17,3 +17,4 @@
 3. 这个方程代表对一个图形进行移动shift，x，y是原始值，u，v是移动值，这样来判断特征，w是一个window，为x，y分配权重？
 ## Harris using Taylor Expansion 
 
+
