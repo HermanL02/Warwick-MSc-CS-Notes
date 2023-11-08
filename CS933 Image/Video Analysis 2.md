@@ -42,4 +42,6 @@ E(u, v) \approx \sum_{(x,y) \in W} [I(x, y) + uI_x + vI_y - I(x, y)]^2
 = (u, v) 
 $$
 
+# Scale Invariant Feature Transform: SIFT
 
+• 
