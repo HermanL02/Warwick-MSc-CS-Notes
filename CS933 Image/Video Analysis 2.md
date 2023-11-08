@@ -44,4 +44,8 @@ $$
 
 # Scale Invariant Feature Transform: SIFT
 
-• 
+- Robust Feature Detection 识别特征点
+- Feature Size and Orientation Estimation 识别大小和方向
+- Invariance of Scale 大小不变
+- HoG(Histograms of Oriented Gradients)
+- 
