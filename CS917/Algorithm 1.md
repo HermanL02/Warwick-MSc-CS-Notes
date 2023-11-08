@@ -5,7 +5,8 @@
 The average case for an algorithm
 The worse case for an algorithm
 All of the above**
-3. 
+3. A list can have duplicates. ANS. Yes
+
 # Feng Hao Office Hours
 Monday: 4-6pm
 # Structure
