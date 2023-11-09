@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS917/Algorithm 1.md",
+                "file": "CS915 Advanced Computer Security/4.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS917/Algorithm 1.md",
+                "file": "CS915 Advanced Computer Security/4.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS917/Algorithm 1.md",
+                "file": "CS915 Advanced Computer Security/4.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS917/Algorithm 1.md"
+                "file": "CS915 Advanced Computer Security/4.4.md"
               }
             }
           }
@@ -149,19 +149,21 @@
   },
   "active": "aeed2d64d9b69f8c",
   "lastOpenFiles": [
-    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
+    "CS915 Advanced Computer Security/Pre-Lecture Questions Collection.md",
+    "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
+    "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md",
+    "CS915 Advanced Computer Security/4.2 Software Security-Race Condition.md",
+    "CS915 Advanced Computer Security/4.4.md",
+    "CS915 Advanced Computer Security/3.4 MAC.md",
     "CS917/Algorithm 1.md",
+    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "CS933 Image/Video Analysis 2.md",
     "CS933 Image/Video Analysis 1.md",
     "CS933 Image/Image Analysis 6 Fourier Transforms.md",
-    "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
     "Pasted image 20231107110935.png",
     "CS933 Image/Video Analysis.md",
-    "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md",
-    "CS915 Advanced Computer Security/4.2 Software Security-Race Condition.md",
     "Pasted image 20231106111307.png",
     "Pasted image 20231106111159.png",
-    "CS915 Advanced Computer Security/Pre-Lecture Questions Collection.md",
     "CS933 Image/Oct. 09.md",
     "CS933 Image/Image Analysis 5.md",
     "CS933 Image/Image Analysis 2.md",
@@ -175,10 +177,8 @@
     "CS932L Formal System Design/Lec7. Verification.md",
     "CS932L Formal System Design/Lec8. Sequences Earlier than Lec7.md",
     "CS932L Formal System Design/Lec5. Nondeterminism.md",
-    "CS915 Advanced Computer Security/3.4 MAC.md",
     "CS907 Dissertation Project/Intro.md",
     "CS908 Research Methods/Oct.27.md",
-    "CS908 Research Methods/Oct.13 Demystifying Problem Solving.md",
     "Pasted image 20231030124101.png",
     "Pasted image 20231030124055.png",
     "Pasted image 20231018104210.png",
