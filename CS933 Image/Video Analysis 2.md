@@ -60,5 +60,6 @@ $$
 ## 10 transformation
 see which is small
 ## Showmefindme -demo
-
+	100  to 60 num
+	Cluster 
 
