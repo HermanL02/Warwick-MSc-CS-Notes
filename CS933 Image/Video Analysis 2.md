@@ -62,4 +62,6 @@ see which is small
 ## Showmefindme -demo
 	100  to 60 num
 	Cluster 
+# Clustering
+Take distance between 
 
