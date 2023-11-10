@@ -49,6 +49,7 @@ $$
 - Invariance of Scale 大小不变
 - HoG(Histograms of Oriented Gradients)
 - Fast to Compute
-## Different pictures have different gradients 
+## Different pictures have different gradients
+## SIFT Descriptors: Histogram of Gradients 
 
 
