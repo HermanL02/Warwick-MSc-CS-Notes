@@ -53,5 +53,8 @@ $$
 ## SIFT Descriptors: Histogram of Gradients 
 
 # Feature Matching - Nearest Neighbour
-
+- used to determine similarity
+- measured in feature space
+- if we compare every features, it would be O(n^2) calculation
+- 
 
