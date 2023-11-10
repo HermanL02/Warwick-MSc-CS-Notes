@@ -49,3 +49,4 @@ $$
 - Invariance of Scale 大小不变
 - HoG(Histograms of Oriented Gradients)
 - Fast to Compute
+
