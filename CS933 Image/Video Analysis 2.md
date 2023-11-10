@@ -56,5 +56,7 @@ $$
 - used to determine similarity
 - measured in feature space
 - if we compare every features, it would be O(n^2) calculation
-- 
+# - scoring / correspondence 
+## 10 transformation
+
 
