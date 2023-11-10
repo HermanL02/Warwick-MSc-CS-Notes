@@ -58,5 +58,7 @@ $$
 - if we compare every features, it would be O(n^2) calculation
 # - scoring / correspondence 
 ## 10 transformation
+see which is small
+## Showmefindme -demo
 
 
