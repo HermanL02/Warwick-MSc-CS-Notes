@@ -52,4 +52,6 @@ $$
 ## Different pictures have different gradients
 ## SIFT Descriptors: Histogram of Gradients 
 
+# Feature Matching - Nearest Neighbour
+
 
