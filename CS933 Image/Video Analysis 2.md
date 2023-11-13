@@ -67,5 +67,9 @@ Use K-means clustering
 
 # Speeded Up Robust Features
 - Rectification: 矫正: Finds Projection Transformation
-- 
+- RANSAC 随机采样一致性: Iteration Algorithm
+- After Rectification, we can use vision difference (disparity) to measure the depth
+	- Used on mosaicking/stitching 图像配准和拼接
+	- Used on 3D reconstruction 3D重建
+
 
