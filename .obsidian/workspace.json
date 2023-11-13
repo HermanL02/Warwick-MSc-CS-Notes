@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.5 Sniffing.md",
+                "file": "CS933 Image/Video Analysis 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.5 Sniffing.md",
+                "file": "CS933 Image/Video Analysis 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.5 Sniffing.md",
+                "file": "CS933 Image/Video Analysis 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/4.5 Sniffing.md"
+                "file": "CS933 Image/Video Analysis 2.md"
               }
             }
           }
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,11 +159,12 @@
   },
   "active": "45a16b5aee963ebd",
   "lastOpenFiles": [
-    "CS915 Advanced Computer Security/4.4 SQL Injection.md",
+    "CS933 Image/未命名.md",
+    "CS933 Image/Video Analysis 2.md",
     "CS915 Advanced Computer Security/4.5 Sniffing.md",
+    "CS915 Advanced Computer Security/4.4 SQL Injection.md",
     "Pasted image 20231113111048.png",
     "CS933 Image/Useful Commands.md",
-    "CS933 Image/Video Analysis 2.md",
     "Pasted image 20231018103506.png",
     "CS917/Algorithm 1.md",
     "CS915 Advanced Computer Security/Pre-Lecture Questions Collection.md",
@@ -180,7 +183,6 @@
     "CS933 Image/Image Analysis 5.md",
     "CS933 Image/Image Analysis 2.md",
     "CS932L Formal System Design/Lec6. Functions.md",
-    "CS933 Image/未命名.md",
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
     "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
     "CS917",

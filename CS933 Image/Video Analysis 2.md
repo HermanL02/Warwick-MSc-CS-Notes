@@ -56,11 +56,11 @@ $$
 - used to determine similarity
 - measured in feature space
 - if we compare every features, it would be O(n^2) calculation
-# - scoring / correspondence 
+# Scoring / correspondence 
 ## 10 transformation
-see which is small
-## Showmefindme -demo
-	100  to 60 num
+See which is small
+## Show me find me -demo
+	100 to 60 num
 	Cluster 
 # Clustering
 Take distance between 
