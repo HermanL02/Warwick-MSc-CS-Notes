@@ -72,4 +72,6 @@ Use K-means clustering
 	- Used on mosaicking/stitching 图像配准和拼接
 	- Used on 3D reconstruction 3D重建
 
+Ex. 给了左右视角，重建中间视角
+
 
