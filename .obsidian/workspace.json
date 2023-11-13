@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Video Analysis 2.md",
+                "file": "CS933 Image/Coursework.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Video Analysis 2.md",
+                "file": "CS933 Image/Coursework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Video Analysis 2.md",
+                "file": "CS933 Image/Coursework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Video Analysis 2.md"
+                "file": "CS933 Image/Coursework.md"
               }
             }
           }
@@ -159,12 +158,17 @@
   },
   "active": "45a16b5aee963ebd",
   "lastOpenFiles": [
+    "CS933 Image/Useful Commands.md",
+    "CS933 Image/Coursework.md",
+    "CS933 Image/目录 Table of Contents.md",
+    "CS933 Image/Visual.md",
     "CS933 Image/未命名.md",
     "CS933 Image/Video Analysis 2.md",
+    "CS933 Image/Video Analysis 1.md",
+    "CS933 Image/Image Analysis 6 Fourier Transforms.md",
     "CS915 Advanced Computer Security/4.5 Sniffing.md",
     "CS915 Advanced Computer Security/4.4 SQL Injection.md",
     "Pasted image 20231113111048.png",
-    "CS933 Image/Useful Commands.md",
     "Pasted image 20231018103506.png",
     "CS917/Algorithm 1.md",
     "CS915 Advanced Computer Security/Pre-Lecture Questions Collection.md",
@@ -173,13 +177,10 @@
     "CS915 Advanced Computer Security/4.2 Software Security-Race Condition.md",
     "CS915 Advanced Computer Security/3.4 MAC.md",
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
-    "CS933 Image/Video Analysis 1.md",
-    "CS933 Image/Image Analysis 6 Fourier Transforms.md",
     "Pasted image 20231107110935.png",
     "CS933 Image/Video Analysis.md",
     "Pasted image 20231106111307.png",
     "Pasted image 20231106111159.png",
-    "CS933 Image/Oct. 09.md",
     "CS933 Image/Image Analysis 5.md",
     "CS933 Image/Image Analysis 2.md",
     "CS932L Formal System Design/Lec6. Functions.md",
@@ -189,8 +190,6 @@
     "CS932L Formal System Design/Lec9. Machine consistency.md",
     "CS932L Formal System Design/Lec7. Verification.md",
     "CS932L Formal System Design/Lec8. Sequences Earlier than Lec7.md",
-    "CS932L Formal System Design/Lec5. Nondeterminism.md",
-    "CS907 Dissertation Project/Intro.md",
     "Pasted image 20231030124101.png",
     "Pasted image 20231030124055.png",
     "Pasted image 20231018104210.png",
