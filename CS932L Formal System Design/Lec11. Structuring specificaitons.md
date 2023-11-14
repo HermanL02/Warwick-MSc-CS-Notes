@@ -12,5 +12,6 @@
 - A machine can be seen by different machines
 - if M1 has parameters, M2 has no control over the values chosen
 - M2 does not see machines M1 sees
+## Example
 ## M2 USES M1
 ## M2 INCLUDES M1
