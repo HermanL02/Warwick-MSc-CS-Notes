@@ -3,3 +3,7 @@
 		2. Encapsulation and separation of concerns 封装和分离concern
 		3. Incremental specification and reuse 增加specification并且重用代码
 		4. Tree Structure
+# Incorporating one machine in another
+## M2 SEES M1
+## M2 USES M1
+## M2 INCLUDES M1
