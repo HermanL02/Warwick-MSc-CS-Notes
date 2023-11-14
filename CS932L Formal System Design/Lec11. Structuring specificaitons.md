@@ -13,9 +13,11 @@
 - if M1 has parameters, M2 has no control over the values chosen
 - M2 does not see machines M1 sees
 ## Example
+Ex1 and Ex2. 
 MACHINE 名字
 SETS set
 END
 这样所有的machine都可以共享这个set，但是其实不会干其他事情
+Ex3. 
 ## M2 USES M1
 ## M2 INCLUDES M1
