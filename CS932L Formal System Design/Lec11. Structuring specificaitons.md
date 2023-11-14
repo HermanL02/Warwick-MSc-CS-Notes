@@ -5,6 +5,8 @@
 		4. Tree Structure
 # Incorporating one machine in another
 ## M2 SEES M1
+- M2 can Refers any sets and constants defined in M1
+- M2 can Query/Use values variables in M1
 - 
 ## M2 USES M1
 ## M2 INCLUDES M1
