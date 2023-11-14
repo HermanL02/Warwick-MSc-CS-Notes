@@ -5,5 +5,6 @@
 		4. Tree Structure
 # Incorporating one machine in another
 ## M2 SEES M1
+- 
 ## M2 USES M1
 ## M2 INCLUDES M1
