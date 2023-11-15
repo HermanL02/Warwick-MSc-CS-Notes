@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Video Analysis 2.md",
+                "file": "CS933 Image/Video Analysis _ Optical Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Video Analysis 2.md",
+                "file": "CS933 Image/Video Analysis _ Optical Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Video Analysis 2.md",
+                "file": "CS933 Image/Video Analysis _ Optical Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Video Analysis 2.md"
+                "file": "CS933 Image/Video Analysis _ Optical Flow.md"
               }
             }
           }
@@ -158,10 +158,10 @@
   },
   "active": "45a16b5aee963ebd",
   "lastOpenFiles": [
+    "CS933 Image/Video Analysis 2.md",
     "CS933 Image/Video Analysis _ Optical Flow.md",
     "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
     "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
-    "CS933 Image/Video Analysis 2.md",
     "CS933 Image/Coursework.md",
     "CS933 Image/Useful Commands.md",
     "CS933 Image/目录 Table of Contents.md",
