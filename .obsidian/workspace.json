@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
+                "file": "CS933 Image/Video Analysis 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
+                "file": "CS933 Image/Video Analysis 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
+                "file": "CS933 Image/Video Analysis 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS932L Formal System Design/Lec11. Structuring specificaitons.md"
+                "file": "CS933 Image/Video Analysis 2.md"
               }
             }
           }
@@ -159,8 +158,9 @@
   },
   "active": "45a16b5aee963ebd",
   "lastOpenFiles": [
-    "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
+    "CS933 Image/Video Analysis _ Optical Flow.md",
     "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
+    "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
     "CS933 Image/Video Analysis 2.md",
     "CS933 Image/Coursework.md",
     "CS933 Image/Useful Commands.md",
@@ -190,7 +190,6 @@
     "CS915 Advanced Computer Security/3.2 Block Cipher.md",
     "CS917",
     "CS932L Formal System Design/Lec9. Machine consistency.md",
-    "CS932L Formal System Design/Lec7. Verification.md",
     "Pasted image 20231030124101.png",
     "Pasted image 20231030124055.png",
     "Pasted image 20231018104210.png",
