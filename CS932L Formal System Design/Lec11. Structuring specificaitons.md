@@ -18,6 +18,19 @@ MACHINE 名字
 SETS set
 END
 这样所有的machine都可以共享这个set，但是其实不会干其他事情
-Ex3. 
+Ex3. Modularising the specification of a secure system.
+```
+MACHINE Classification
+
+SETS CLASS = {unc,conf,sec,tops}
+
+CONSTANTS clessthanoreq
+
+PROPERTIES clessthanoreq : CLASS <-> CLASS &
+
+clessthanoreq = {unc|->unc, unc|->conf, unc|->sec, ... }
+
+END
+```
 ## M2 USES M1
 ## M2 INCLUDES M1
