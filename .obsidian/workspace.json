@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "CS915 Advanced Computer Security/4.7 Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "CS915 Advanced Computer Security/4.7 Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "CS915 Advanced Computer Security/4.7 Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Useful Commands.md"
+                "file": "CS915 Advanced Computer Security/4.7 Firewall.md"
               }
             }
           }
@@ -182,6 +182,7 @@
   },
   "active": "b9ab5e883f38d992",
   "lastOpenFiles": [
+    "CS933 Image/Useful Commands.md",
     "CS915 Advanced Computer Security/Pre-Lecture Questions Collection.md",
     "CS915 Advanced Computer Security/4.5 Sniffing.md",
     "CS915 Advanced Computer Security/4.7 Firewall.md",
@@ -195,7 +196,6 @@
     "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
     "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
     "CS933 Image/Coursework.md",
-    "CS933 Image/Useful Commands.md",
     "CS933 Image/目录 Table of Contents.md",
     "CS933 Image/Video Analysis 1.md",
     "CS933 Image/Image Analysis 6 Fourier Transforms.md",
