@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/5..md",
+                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/5..md",
+                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/5..md",
+                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/5..md"
+                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md"
               }
             }
           }
@@ -152,7 +152,7 @@
     "CS915 Advanced Computer Security/4.5 Sniffing.md",
     "CS915 Advanced Computer Security/4.7 Firewall.md",
     "CS915 Advanced Computer Security/4.8 DNS attacks.md",
-    "CS915 Advanced Computer Security/5..md",
+    "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
     "CS932L Formal System Design/Lec5. Nondeterminism.md",
     "CS933 Image/Video Analysis 3.md",
     "CS933 Image/Video Analysis 2.md",
