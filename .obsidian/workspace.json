@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "AZ-900/AZ-900.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "AZ-900/AZ-900.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "AZ-900/AZ-900.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Useful Commands.md"
+                "file": "AZ-900/AZ-900.md"
               }
             }
           }
@@ -162,6 +162,9 @@
   },
   "active": "e019cb1796ce5013",
   "lastOpenFiles": [
+    "CS933 Image/Useful Commands.md",
+    "AZ-900/AZ-900.md",
+    "AZ-900",
     "3.6 Public Key Encryption.md",
     "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
     "CS915 Advanced Computer Security/Pre-Lecture Questions Collection.md",
@@ -173,7 +176,6 @@
     "CS933 Image/Video Analysis 3.md",
     "CS933 Image/Video Analysis 2.md",
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
-    "CS933 Image/Useful Commands.md",
     "CS915 Advanced Computer Security/4.4 SQL Injection.md",
     "CS933 Image/Video Analysis _ Optical Flow.md",
     "CS933 Image/Visual.md",
@@ -190,7 +192,6 @@
     "CS917/Algorithm 1.md",
     "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
     "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md",
-    "CS915 Advanced Computer Security/4.2 Software Security-Race Condition.md",
     "Pasted image 20231107110935.png",
     "Pasted image 20231106111307.png",
     "Pasted image 20231106111159.png",
