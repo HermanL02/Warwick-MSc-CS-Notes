@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -104,7 +105,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -146,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,7 +160,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "e019cb1796ce5013",
+  "active": "6eba427078fd3709",
   "lastOpenFiles": [
     "CS933 Image/Useful Commands.md",
     "AZ-900/AZ-900.md",
