@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "CS909 Data Mining/Lec1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "CS909 Data Mining/Lec1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS933 Image/Useful Commands.md",
+                "file": "CS909 Data Mining/Lec1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS933 Image/Useful Commands.md"
+                "file": "CS909 Data Mining/Lec1. Introduction.md"
               }
             }
           }
@@ -173,11 +173,14 @@
   },
   "active": "d281661d73c44323",
   "lastOpenFiles": [
-    "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
-    "CS933 Image/Useful Commands.md",
+    "CS915 Advanced Computer Security/3.6 Public Key Encryption.md",
+    "CS909 Data Mining/Lec1. Introduction.md",
+    "CS909 Data Mining",
+    "未命名.canvas",
     "AZ-900/AZ-900.md",
+    "CS933 Image/Useful Commands.md",
+    "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
     "AZ-900",
-    "3.6 Public Key Encryption.md",
     "CS915 Advanced Computer Security/Pre-Lecture Questions Collection.md",
     "CS915 Advanced Computer Security/4.8 DNS attacks.md",
     "CS915 Advanced Computer Security/TLS 1.3.md",
@@ -191,7 +194,6 @@
     "CS933 Image/Video Analysis _ Optical Flow.md",
     "CS933 Image/Visual.md",
     "CS933 Image/未命名.md",
-    "未命名.canvas",
     "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
     "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
     "CS933 Image/Coursework.md",
@@ -202,7 +204,6 @@
     "Pasted image 20231018103506.png",
     "CS917/Algorithm 1.md",
     "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
-    "CS915 Advanced Computer Security/4.1 Software Buffer Overflow (After Mac).md",
     "Pasted image 20231107110935.png",
     "Pasted image 20231106111307.png",
     "Pasted image 20231106111159.png",
