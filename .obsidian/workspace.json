@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS909 Data Mining/Lec1. Introduction.md",
+                "file": "CS924 Agent Based Systems/Lec1. Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS909 Data Mining/Lec1. Introduction.md",
+                "file": "CS924 Agent Based Systems/Lec1. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS909 Data Mining/Lec1. Introduction.md",
+                "file": "CS924 Agent Based Systems/Lec1. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS909 Data Mining/Lec1. Introduction.md"
+                "file": "CS924 Agent Based Systems/Lec1. Intro.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "d281661d73c44323",
   "lastOpenFiles": [
-    "CS915 Advanced Computer Security/3.6 Public Key Encryption.md",
+    "CS909 Data Mining/未命名.md",
+    "CS924 Agent Based Systems/Lec1. Intro.md",
+    "CS924 Agent Based Systems",
     "CS909 Data Mining/Lec1. Introduction.md",
+    "CS915 Advanced Computer Security/3.6 Public Key Encryption.md",
     "CS909 Data Mining",
     "未命名.canvas",
     "AZ-900/AZ-900.md",
@@ -202,8 +205,6 @@
     "CS933 Image/Image Analysis 6 Fourier Transforms.md",
     "Pasted image 20231113111048.png",
     "Pasted image 20231018103506.png",
-    "CS917/Algorithm 1.md",
-    "CS915 Advanced Computer Security/4.3 Web CSRF&XSS.md",
     "Pasted image 20231107110935.png",
     "Pasted image 20231106111307.png",
     "Pasted image 20231106111159.png",
