@@ -18,4 +18,14 @@ Reading Comprehension (Long Text)
 Bot Chatting
 ## Applications
 - Distinguish Spam emails
+## Challenging
+### Ambiguous
+1. Non Standard
+2. Idioms
+3. Segmentation issues
+4. Neologisms
+5. World Knowledge
+6. Tricky Entity Names
+### How to solve? 
+Regular Expressions
 
