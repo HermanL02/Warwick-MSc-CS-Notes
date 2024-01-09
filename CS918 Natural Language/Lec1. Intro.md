@@ -27,5 +27,5 @@ Bot Chatting
 5. World Knowledge
 6. Tricky Entity Names
 ### How to solve? 
-Regular Expressions
+## Regular Expressions
 
