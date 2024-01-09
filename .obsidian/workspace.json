@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS924 Agent Based Systems/Lec1. Intro.md",
+                "file": "CS918 Natural Language/Lec1. Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS924 Agent Based Systems/Lec1. Intro.md",
+                "file": "CS918 Natural Language/Lec1. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS924 Agent Based Systems/Lec1. Intro.md",
+                "file": "CS918 Natural Language/Lec1. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS924 Agent Based Systems/Lec1. Intro.md"
+                "file": "CS918 Natural Language/Lec1. Intro.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "d281661d73c44323",
   "lastOpenFiles": [
-    "CS909 Data Mining/未命名.md",
     "CS924 Agent Based Systems/Lec1. Intro.md",
+    "CS918 Natural Language/Lec1. Intro.md",
+    "CS918 Natural Language",
+    "CS924 Agent Based Systems/未命名",
+    "CS909 Data Mining/未命名.md",
     "CS924 Agent Based Systems",
     "CS909 Data Mining/Lec1. Introduction.md",
     "CS915 Advanced Computer Security/3.6 Public Key Encryption.md",
@@ -202,7 +205,6 @@
     "CS933 Image/Coursework.md",
     "CS933 Image/目录 Table of Contents.md",
     "CS933 Image/Video Analysis 1.md",
-    "CS933 Image/Image Analysis 6 Fourier Transforms.md",
     "Pasted image 20231113111048.png",
     "Pasted image 20231018103506.png",
     "Pasted image 20231107110935.png",
@@ -218,8 +220,6 @@
     "CS908 Research Methods",
     "Recording 20231010101155.webm",
     "CS932L Formal System Design",
-    "CS907 Dissertation Project",
-    "CS915 Advanced Computer Security",
-    "CS933 Image"
+    "CS907 Dissertation Project"
   ]
 }
