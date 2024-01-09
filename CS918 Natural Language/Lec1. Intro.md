@@ -10,3 +10,6 @@ Now: Neural Models (Deep Learning)
 Recommender System (eg. Amazon)
 Sentiment Analysis (eg. reviews keyword extraction)
 Information Extraction (eg. Auto extract date and place of a meeting from an email)
+Machine translation
+Question Answering (eg. Bing: What is the largest country in the world? )
+Reading Comprehension ()
