@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS918 Natural Language/Lec1. Intro.md",
+                "file": "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS918 Natural Language/Lec1. Intro.md",
+                "file": "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS918 Natural Language/Lec1. Intro.md",
+                "file": "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS918 Natural Language/Lec1. Intro.md"
+                "file": "CS909 Data Mining/Lec2. Classification and Linear Decriments.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "d281661d73c44323",
   "lastOpenFiles": [
-    "CS924 Agent Based Systems/Lec1. Intro.md",
     "CS918 Natural Language/Lec1. Intro.md",
+    "CS924 Agent Based Systems/Lec1. Intro.md",
     "CS918 Natural Language",
     "CS924 Agent Based Systems/未命名",
-    "CS909 Data Mining/未命名.md",
+    "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
     "CS924 Agent Based Systems",
     "CS909 Data Mining/Lec1. Introduction.md",
     "CS915 Advanced Computer Security/3.6 Public Key Encryption.md",
