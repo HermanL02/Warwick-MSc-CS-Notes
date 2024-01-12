@@ -1,2 +1,10 @@
 # Guess 2/3
-2/3 guess game
+2/3 guess game, keeps guessing 2/3...
+# Chess
+- Finite Game
+- Three-fold repetition
+## Possible States
+- All possible positions
+- Different ways of reaching the state called : histories
+### Histories
+Sequence from x0 to xk, where x 0 is opening position
