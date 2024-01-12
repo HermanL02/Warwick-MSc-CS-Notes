@@ -8,3 +8,5 @@
 - Different ways of reaching the state called : histories
 ### Histories
 Sequence from x0 to xk, where x 0 is opening position
+
+# Zermelo's Theorem
