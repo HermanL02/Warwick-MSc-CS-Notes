@@ -9,4 +9,11 @@
 ### Histories
 Sequence from x0 to xk, where x 0 is opening position
 
-# Zermelo's Theorem
+## Zermelo's Theorem
+### Content
+White has winning strategy
+OR
+Black has winning strategy
+OR
+Both players have an at-least drawing strategy
+
