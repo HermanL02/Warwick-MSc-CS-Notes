@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS909 Data Mining/Lec3. From Lines to Perceptrons.md",
+                "file": "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS909 Data Mining/Lec3. From Lines to Perceptrons.md",
+                "file": "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS909 Data Mining/Lec3. From Lines to Perceptrons.md",
+                "file": "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS909 Data Mining/Lec3. From Lines to Perceptrons.md"
+                "file": "CS909 Data Mining/Lec3. From Lines to Perceptron.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "d281661d73c44323",
   "lastOpenFiles": [
     "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
-    "CS909 Data Mining/Lec3. From Lines to Perceptrons.md",
+    "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
     "CS918 Natural Language/Lec1. Intro.md",
     "CS924 Agent Based Systems/Lec1. Intro.md",
     "CS918 Natural Language",
