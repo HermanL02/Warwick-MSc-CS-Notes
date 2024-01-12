@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
+                "file": "CS924 Agent Based Systems/Lec1. Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9635af30b423463b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS924 Agent Based Systems/Lec2..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
+                "file": "CS924 Agent Based Systems/Lec2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
+                "file": "CS924 Agent Based Systems/Lec2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md"
+                "file": "CS924 Agent Based Systems/Lec2..md"
               }
             }
           }
@@ -172,12 +184,14 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "80b23ce7c20bf40b",
+  "active": "9635af30b423463b",
   "lastOpenFiles": [
+    "CS924 Agent Based Systems/Lec1. Intro.md",
+    "CS924 Agent Based Systems/Lec2..md",
+    "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
     "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
     "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
     "CS918 Natural Language/Lec1. Intro.md",
-    "CS924 Agent Based Systems/Lec1. Intro.md",
     "CS918 Natural Language",
     "CS924 Agent Based Systems/未命名",
     "CS924 Agent Based Systems",
@@ -187,7 +201,6 @@
     "未命名.canvas",
     "AZ-900/AZ-900.md",
     "CS933 Image/Useful Commands.md",
-    "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
     "AZ-900",
     "CS915 Advanced Computer Security/Pre-Lecture Questions Collection.md",
     "CS915 Advanced Computer Security/4.8 DNS attacks.md",
@@ -205,7 +218,6 @@
     "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
     "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
     "CS933 Image/Coursework.md",
-    "CS933 Image/目录 Table of Contents.md",
     "Pasted image 20231113111048.png",
     "Pasted image 20231018103506.png",
     "Pasted image 20231107110935.png",
