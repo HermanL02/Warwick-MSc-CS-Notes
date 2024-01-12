@@ -17,3 +17,8 @@ Black has winning strategy
 OR
 Both players have an at-least drawing strategy
 
+### Proof
+
+### Non-Repetition Rule
+
+
