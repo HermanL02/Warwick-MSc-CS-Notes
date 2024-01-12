@@ -28,3 +28,20 @@ Easy to understand and achieve
 Label: y = +1, meaning f(x) is positive meaning that it is correctly classified
 
 Label: y = -1, not correctly classified
+
+
+## 0-1 Loss Function
+计算假设函数 h 在训练集上犯了多少错误
+
+1. 损失不可Differentiate, If one value close to the threshold of positive response, it still disconnected. 
+2. Poor optimization
+3. 替代函数- 连续，平滑 - continuous and over-approximation AND should be CONVEX
+## Surrogate Classification Loss
+
+– A convex over-approximation of the 0-1 loss
+
+$\min_{w} L(X, Y; w) = \sum_{i=1}^{N} \max\{0, 1 - y_i f(x_i; w)\}$
+How to solve this function? 
+- take derivative and substitute 0
+- Gradient Descent
+## Optimization

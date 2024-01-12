@@ -154,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d281661d73c44323",
+  "active": "80b23ce7c20bf40b",
   "lastOpenFiles": [
     "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
     "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
