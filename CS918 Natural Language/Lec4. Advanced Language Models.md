@@ -17,5 +17,6 @@ Improve the distribution by share the possibility to the other words.
 Supposing give not appeared word a possibility of all  one's probability
 For example I->3 am->2 happy->1 fine->1
 So unseen word probability is 1+1 = 2/ (3+2+1+1)
-
+change c=0, 1, 2, 3...
+Good Turning Calculations 
 ### Kneser-Ney Smoothing
