@@ -11,6 +11,7 @@ Improve the distribution by share the possibility to the other words.
 ### Interpolation and backoff
 - Backoff: How to decide bigram, trigram, unigram, and ...
 - Linear Interpolation
-- 
+- Lambdas - context dependent (Do not need to know how, but know we can make it context dependent)
+- How to set Lambdas? 
 ### Turning Smoothing
 ### Kneser-Ney Smoothing
