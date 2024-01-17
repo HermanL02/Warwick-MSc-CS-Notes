@@ -7,7 +7,10 @@ Improve the distribution by share the possibility to the other words.
 ### Laplace Smoothing
 - Add one Estimation
 - Normalize them
-- 
+- We need to decide K Estimation to avoid distribute too much on the 0s. 
 ### Interpolation and backoff
+- Backoff: How to decide bigram, trigram, unigram, and ...
+- Linear Interpolation
+- 
 ### Turning Smoothing
 ### Kneser-Ney Smoothing
