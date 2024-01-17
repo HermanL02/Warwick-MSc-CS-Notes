@@ -6,6 +6,7 @@ Training set -> Test set
 Improve the distribution by share the possibility to the other words. 
 ### Laplace Smoothing
 - Add one Estimation
+- Normalize them
 - 
 ### Interpolation and backoff
 ### Turning Smoothing
