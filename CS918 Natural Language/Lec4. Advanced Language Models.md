@@ -14,5 +14,8 @@ Improve the distribution by share the possibility to the other words.
 - Lambdas - context dependent (Do not need to know how, but know we can make it context dependent)
 - How to set Lambdas? 
 ### Turning Smoothing
+Supposing give not appeared word a possibility of all  one's probability
+For example I->3 am->2 happy->1 fine->1
+So unseen word probability is 1+1 = 2/ (3+2+1+1)
 
 ### Kneser-Ney Smoothing
