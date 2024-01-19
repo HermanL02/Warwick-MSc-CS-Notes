@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS918 Natural Language/Lec4. Advanced Language Models.md",
+                "file": "CS909 Data Mining/Lec4. Structural Risk Minimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS918 Natural Language/Lec4. Advanced Language Models.md",
+                "file": "CS909 Data Mining/Lec4. Structural Risk Minimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS918 Natural Language/Lec4. Advanced Language Models.md",
+                "file": "CS909 Data Mining/Lec4. Structural Risk Minimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS918 Natural Language/Lec4. Advanced Language Models.md"
+                "file": "CS909 Data Mining/Lec4. Structural Risk Minimization.md"
               }
             }
           }
@@ -198,8 +198,9 @@
   },
   "active": "7ecff0ab866363ca",
   "lastOpenFiles": [
-    "CS918 Natural Language/Lec1. Intro.md",
     "CS918 Natural Language/Lec4. Advanced Language Models.md",
+    "CS909 Data Mining/Lec4. Structural Risk Minimization.md",
+    "CS918 Natural Language/Lec1. Intro.md",
     "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
     "CS924 Agent Based Systems/Lec2..md",
     "CS924 Agent Based Systems/Lec1. Intro.md",
@@ -229,7 +230,6 @@
     "CS933 Image/Visual.md",
     "CS933 Image/未命名.md",
     "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
-    "CS932L Formal System Design/Lec10. Advanced Specification Methods.md",
     "Pasted image 20231113111048.png",
     "Pasted image 20231018103506.png",
     "Pasted image 20231107110935.png",
