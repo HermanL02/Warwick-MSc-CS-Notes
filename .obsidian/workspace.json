@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS909 Data Mining/Lec4. Structural Risk Minimization.md",
+                "file": "CS909 Data Mining/Lec1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS909 Data Mining/Lec4. Structural Risk Minimization.md",
+                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS909 Data Mining/Lec4. Structural Risk Minimization.md",
+                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS909 Data Mining/Lec4. Structural Risk Minimization.md"
+                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md"
               }
             }
           }
@@ -196,16 +196,16 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "7ecff0ab866363ca",
+  "active": "d2a671e06feb8be0",
   "lastOpenFiles": [
-    "CS918 Natural Language/Lec4. Advanced Language Models.md",
     "CS909 Data Mining/Lec4. Structural Risk Minimization.md",
-    "CS918 Natural Language/Lec1. Intro.md",
     "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
+    "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
+    "CS918 Natural Language/Lec4. Advanced Language Models.md",
+    "CS918 Natural Language/Lec1. Intro.md",
     "CS924 Agent Based Systems/Lec2..md",
     "CS924 Agent Based Systems/Lec1. Intro.md",
     "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
-    "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
     "CS918 Natural Language",
     "CS924 Agent Based Systems/未命名",
     "CS924 Agent Based Systems",
