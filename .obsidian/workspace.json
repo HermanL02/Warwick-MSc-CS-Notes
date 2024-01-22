@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS909 Data Mining/Lec1. Introduction.md",
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md"
+                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md"
               }
             }
           }
@@ -196,8 +196,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d2a671e06feb8be0",
+  "active": "7ecff0ab866363ca",
   "lastOpenFiles": [
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
     "CS909 Data Mining/Lec4. Structural Risk Minimization.md",
     "CS909 Data Mining/Lec2. Classification and Linear Decriments.md",
     "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
@@ -205,14 +208,12 @@
     "CS918 Natural Language/Lec1. Intro.md",
     "CS924 Agent Based Systems/Lec2..md",
     "CS924 Agent Based Systems/Lec1. Intro.md",
-    "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
     "CS918 Natural Language",
     "CS924 Agent Based Systems/未命名",
     "CS924 Agent Based Systems",
     "CS909 Data Mining/Lec1. Introduction.md",
     "CS915 Advanced Computer Security/3.6 Public Key Encryption.md",
     "CS909 Data Mining",
-    "未命名.canvas",
     "AZ-900/AZ-900.md",
     "CS933 Image/Useful Commands.md",
     "AZ-900",
@@ -229,7 +230,6 @@
     "CS933 Image/Video Analysis _ Optical Flow.md",
     "CS933 Image/Visual.md",
     "CS933 Image/未命名.md",
-    "CS932L Formal System Design/Lec11. Structuring specificaitons.md",
     "Pasted image 20231113111048.png",
     "Pasted image 20231018103506.png",
     "Pasted image 20231107110935.png",
