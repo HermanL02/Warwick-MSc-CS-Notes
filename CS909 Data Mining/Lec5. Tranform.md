@@ -7,3 +7,4 @@ $$d_{\phi}(a, b) = \|\phi(a) - \phi(b)\|^2
 We call dot products in the transformed space “Kernels”. 
 $d_{\phi}(a, b) = k_{\phi}(a, a) + k_{\phi}(b, b) - 2k_{\phi}(a, b)$
 $k_{\phi}(a, b) = \phi(a)^T \phi(b)$
+这只是x, y转x, y, z，那么如果有indefinite dimensional的话，就是叫RBF
