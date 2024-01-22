@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+                "file": "CS909 Data Mining/Lec5. Tranform.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+                "file": "CS909 Data Mining/Lec5. Tranform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
+                "file": "CS909 Data Mining/Lec5. Tranform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS915 Advanced Computer Security/3.1 Stream Cipher.md"
+                "file": "CS909 Data Mining/Lec5. Tranform.md"
               }
             }
           }
@@ -198,6 +198,9 @@
   },
   "active": "7ecff0ab866363ca",
   "lastOpenFiles": [
+    "CS915 Advanced Computer Security/3.3 Hash.md",
+    "CS909 Data Mining/Lec5. Tranform.md",
+    "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "CS915 Advanced Computer Security/3.5 Key Exchange (Later than 4.8).md",
@@ -228,8 +231,6 @@
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "CS915 Advanced Computer Security/4.4 SQL Injection.md",
     "CS933 Image/Video Analysis _ Optical Flow.md",
-    "CS933 Image/Visual.md",
-    "CS933 Image/未命名.md",
     "Pasted image 20231113111048.png",
     "Pasted image 20231018103506.png",
     "Pasted image 20231107110935.png",
