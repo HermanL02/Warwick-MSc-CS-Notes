@@ -51,3 +51,4 @@ $$
 \boldsymbol{\alpha}^{(m)} \leftarrow \boldsymbol{\alpha}^{(m-1)} - \eta \nabla D_{\boldsymbol{\alpha}}(\boldsymbol{\alpha}^{(k-1)})
 $$
 
+合起来叫做REO
