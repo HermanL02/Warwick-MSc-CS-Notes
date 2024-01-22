@@ -8,3 +8,16 @@ We call dot products in the transformed space “Kernels”.
 $d_{\phi}(a, b) = k_{\phi}(a, a) + k_{\phi}(b, b) - 2k_{\phi}(a, b)$
 $k_{\phi}(a, b) = \phi(a)^T \phi(b)$
 这只是x, y转x, y, z，那么如果有indefinite dimensional的话，就是叫RBF
+
+## SVM判别函数
+$f(\mathbf{x}) = \mathbf{w}^T \mathbf{x} + b$
+## Representer Theorem
+$根据表达定理，权重向量 \mathbf{w} 可以表示为输入向量的线性组合$
+$\mathbf{w} = \sum_{i=1}^{N} \alpha_i \mathbf{x}_i$
+所以目前公式是
+$f(\mathbf{x}) = b + \sum_{j=1}^{N} \alpha_j \mathbf{x}_j^T \mathbf{x}$
+我们还可以引入Kernel，之后是
+
+$f(\mathbf{x}) = b + \sum_{j=1}^{N} \alpha_j k(\mathbf{x}_j, \mathbf{x})$
+
+## Kernel SVM's Optimization
