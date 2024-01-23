@@ -4,38 +4,42 @@ Cars -> have parts/ have-wheels/ ...
 	- When does it comes to the end?
 	- Settle a final list? 
 # Word Senses
+# Word Meaning
 ## Homonymy
 Same pronunciation, different meaning
 If we say go to the bank, meaning go to the institution. 
 If we say the bank is located at, means the building itself. 
 
-# Polysemy
+## Polysemy
 The university has gone on strike. (staff)
 The university is located at... (address)
 
-# Synotomy
+## Synotomy
 Same meaning
-# Antonymy
+## Antonymy
 Different meaning
 
-# Hyponymy Hypernymy
+## Hyponymy Hypernymy
 下位词/上位词
-# Instances
+## Instances
 London is a instance of City. 
 City is a hyponym of a **Municipality**. 
 
-# Thesauri
+## Thesauri
 Similarity in meaning
 
-# WordNet 
+## WordNet 
 - maintained by Princeton
 - a Python Lib
 - provide Synset relations
 - provide Hyponym/ Hypernym and so on
 - ...
 ## Fragment
-## Similarity 
+### Similarity 
 - Are they in the same Hypernym?
 - Do they have similar glosses? 
-### Path-Based Similarity
+#### Path-Based Similarity
 - count from 1
+- assumes uniform length for all paths
+- 
+#
