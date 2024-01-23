@@ -49,3 +49,6 @@ It solves the above problem.
 ### Dekang Lin Similarity Function
 
 ## The Lesk Algorithm
+## Thesaurus-Based Approaches: Limitations
+- Does not have this for all the languages
+## Distributional Models of Meaning
