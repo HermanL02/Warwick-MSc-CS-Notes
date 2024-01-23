@@ -38,4 +38,4 @@ Similarity in meaning
 - Are they in the same Hypernym?
 - Do they have similar glosses? 
 ### Path-Based Similarity
-
+- count from 1
