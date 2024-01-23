@@ -44,3 +44,5 @@ Similarity in meaning
 # Information Content
 It solves the above problem. 
 ## Lowest common subsumer 
+- (In my understanding, ) it is to find the node on the tree, where the indicated two nodes start to split. 
+## Dekang Lin Method
