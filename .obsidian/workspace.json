@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS924 Agent Based Systems/Seminar1.md",
+                "file": "CS918 Natural Language/Lec5..md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS924 Agent Based Systems/Seminar1.md",
+                "file": "CS918 Natural Language/Lec5..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS924 Agent Based Systems/Seminar1.md",
+                "file": "CS918 Natural Language/Lec5..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS924 Agent Based Systems/Seminar1.md"
+                "file": "CS918 Natural Language/Lec5..md"
               }
             }
           }
@@ -198,8 +198,10 @@
   },
   "active": "7ecff0ab866363ca",
   "lastOpenFiles": [
-    "CS909 Data Mining/Lec5. Tranform.md",
+    "CS924 Agent Based Systems/Lec2..md",
+    "CS918 Natural Language/Lec5..md",
     "CS924 Agent Based Systems/Seminar1.md",
+    "CS909 Data Mining/Lec5. Tranform.md",
     "CS915 Advanced Computer Security/3.3 Hash.md",
     "CS915 Advanced Computer Security/3.1 Stream Cipher.md",
     "未命名 1.canvas",
@@ -210,7 +212,6 @@
     "CS909 Data Mining/Lec3. From Lines to Perceptron.md",
     "CS918 Natural Language/Lec4. Advanced Language Models.md",
     "CS918 Natural Language/Lec1. Intro.md",
-    "CS924 Agent Based Systems/Lec2..md",
     "CS924 Agent Based Systems/Lec1. Intro.md",
     "CS918 Natural Language",
     "CS924 Agent Based Systems/未命名",
@@ -230,7 +231,6 @@
     "CS933 Image/Video Analysis 3.md",
     "CS933 Image/Video Analysis 2.md",
     "CS915 Advanced Computer Security/3. Crypto toolbox.md",
-    "CS915 Advanced Computer Security/4.4 SQL Injection.md",
     "Pasted image 20231113111048.png",
     "Pasted image 20231018103506.png",
     "Pasted image 20231107110935.png",
