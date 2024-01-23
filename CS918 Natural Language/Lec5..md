@@ -52,3 +52,5 @@ It solves the above problem.
 ## Thesaurus-Based Approaches: Limitations
 - Does not have this for all the languages
 ## Distributional Models of Meaning
+
+## Matrixes (Term-Context Matrix; Word-word Matrix)
