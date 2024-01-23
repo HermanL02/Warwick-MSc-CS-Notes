@@ -32,4 +32,5 @@ Similarity in meaning
 - a Python Lib
 - provide Synset relations
 - provide Hyponym/ Hypernym and so on
-- 
+- ...
+
