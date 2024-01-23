@@ -54,3 +54,4 @@ It solves the above problem.
 ## Distributional Models of Meaning
 
 ## Matrixes (Term-Context Matrix; Word-word Matrix)
+## Pointwise Mutual Information
