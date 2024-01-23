@@ -40,6 +40,7 @@ Similarity in meaning
 - Do they have similar glosses? 
 #### Path-Based Similarity
 - count from 1
-- assumes uniform length for all paths
-- 
-#
+- assumes uniform length for all paths - which causes some misclassification???
+# Information Content
+It solves the above problem. 
+## Lowest common subsumer 
