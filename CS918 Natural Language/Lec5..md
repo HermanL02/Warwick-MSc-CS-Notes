@@ -34,4 +34,8 @@ Similarity in meaning
 - provide Hyponym/ Hypernym and so on
 - ...
 ## Fragment
-x
+## Similarity 
+- Are they in the same Hypernym?
+- Do they have similar glosses? 
+### Path-Based Similarity
+
