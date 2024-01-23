@@ -28,3 +28,8 @@ City is a hyponym of a **Municipality**.
 Similarity in meaning
 
 # WordNet 
+- maintained by Princeton
+- a Python Lib
+- provide Synset relations
+- provide Hyponym/ Hypernym and so on
+- 
