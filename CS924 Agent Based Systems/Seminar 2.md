@@ -1,1 +1,3 @@
-1. 
+# Nash Equilibrium
+## a. 
+### Pure equilibrium
