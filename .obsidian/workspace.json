@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS918 Natural Language/Lec5..md",
+                "file": "CS909 Data Mining/Lec. 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db56c1f762d6f165",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS918 Natural Language/Lec5..md",
+                "file": "CS909 Data Mining/Lec. 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS918 Natural Language/Lec5..md",
+                "file": "CS909 Data Mining/Lec. 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS918 Natural Language/Lec5..md"
+                "file": "CS909 Data Mining/Lec. 10.md"
               }
             }
           }
@@ -199,8 +198,9 @@
   },
   "active": "7ecff0ab866363ca",
   "lastOpenFiles": [
-    "CS924 Agent Based Systems/Lec2..md",
     "CS918 Natural Language/Lec5..md",
+    "CS909 Data Mining/Lec. 10.md",
+    "CS924 Agent Based Systems/Lec2..md",
     "CS924 Agent Based Systems/Seminar1.md",
     "CS909 Data Mining/Lec5. Tranform.md",
     "CS915 Advanced Computer Security/3.3 Hash.md",
@@ -231,7 +231,6 @@
     "CS932L Formal System Design/Lec5. Nondeterminism.md",
     "CS933 Image/Video Analysis 3.md",
     "CS933 Image/Video Analysis 2.md",
-    "CS915 Advanced Computer Security/3. Crypto toolbox.md",
     "Pasted image 20231113111048.png",
     "Pasted image 20231018103506.png",
     "Pasted image 20231107110935.png",
