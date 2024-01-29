@@ -8,5 +8,17 @@ AUC-ROC 是ROC曲线下面的面积，用于衡量分类器在正负类别的整
 
 # Last Year Exam Question
 C1 and C2, Which is better? 
-In some scenario, C
+# PR vs. ROC
 
+PR曲线重点关注模型在正类上的性能。
+
+1. **Precision（精确率）**：
+    
+    - Precision是指模型正确预测为正类的样本占所有预测为正类样本的比例。
+    - 公式为：Precision = True Positives / (True Positives + False Positives)。
+2. **Recall（召回率）**：
+    
+    - Recall是指模型正确预测为正类的样本占所有实际正类样本的比例。
+    - 公式为：Recall = True Positives / (True Positives + False Negatives)。
+- 当你关注正类（如罕见疾病的诊断、欺诈检测等）的检测性能时，PR曲线是一个非常有用的工具。
+- 在类别高度不平衡的数据集中，PR曲线比ROC曲线更能提供有用的性能度量。
