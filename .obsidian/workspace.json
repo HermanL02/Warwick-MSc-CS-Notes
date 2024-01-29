@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS909 Data Mining/Lec. 10.md",
+                "file": "CS924 Agent Based Systems/Seminar 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS909 Data Mining/Lec. 10.md",
+                "file": "CS924 Agent Based Systems/Seminar 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS909 Data Mining/Lec. 10.md",
+                "file": "CS924 Agent Based Systems/Seminar 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS909 Data Mining/Lec. 10.md"
+                "file": "CS924 Agent Based Systems/Seminar 2.md"
               }
             }
           }
@@ -198,8 +198,9 @@
   },
   "active": "7ecff0ab866363ca",
   "lastOpenFiles": [
-    "CS918 Natural Language/Lec5..md",
     "CS909 Data Mining/Lec. 10.md",
+    "CS924 Agent Based Systems/Seminar 2.md",
+    "CS918 Natural Language/Lec5..md",
     "CS924 Agent Based Systems/Lec2..md",
     "CS924 Agent Based Systems/Seminar1.md",
     "CS909 Data Mining/Lec5. Tranform.md",
@@ -230,7 +231,6 @@
     "CS915 Advanced Computer Security/4.7 Firewall.md",
     "CS932L Formal System Design/Lec5. Nondeterminism.md",
     "CS933 Image/Video Analysis 3.md",
-    "CS933 Image/Video Analysis 2.md",
     "Pasted image 20231113111048.png",
     "Pasted image 20231018103506.png",
     "Pasted image 20231107110935.png",
