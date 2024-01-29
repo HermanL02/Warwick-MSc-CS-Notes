@@ -55,3 +55,6 @@ It solves the above problem.
 
 ## Matrixes (Term-Context Matrix; Word-word Matrix)
 ## Pointwise Mutual Information
+
+
+# Tmr: State of the art 
