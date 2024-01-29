@@ -6,3 +6,7 @@ Convex Hull是凸包，凸包越大，意味着模型True Positive的部分对�
 ## ROC Properties 
 AUC-ROC 是ROC曲线下面的面积，用于衡量分类器在正负类别的整体性能
 
+# Last Year Exam Question
+C1 and C2, Which is better? 
+In some scenario, C
+
